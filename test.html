@@ -1,0 +1,184 @@
+<html>
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+        <script src="https://cdn.tailwindcss.com"></script>
+    </head>
+    <body class="flex flex-col gap-16">
+        <div class="flex gap-5">
+            <h1 class="course-level">1</h1>
+            <div class="flex flex-col justify-between">
+                <div class="flex justify-between">
+                    <h1 class="course-number">01</h1>
+                    <img class="logo" src="static/cm logo.png" />
+                </div>
+                <h2 class="class-name">LEGO Mindstorms Programming</h2>
+            </div>
+        </div>
+
+        <hr class="divider">
+
+        <div class="flex flex-col gap-16">
+            <div class="flex flex-row justify-between gap-16">
+                <div class="image-col">
+                    <img src="https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg"/>
+                </div>
+                <div class="info-col flex flex-col gap-10">
+                    <p>The LEGO robotics course fully develops students' STEM abilities and innovative thinking.</p>
+                    <div>
+                        <h3>Course Content</h3>
+                        <ul>
+                            <li>Master robot building skills</li>
+                            <li>Learn block programming</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h3>Course Outcomes</h3>
+                        <ul>
+                            <li>Build various robot models</li>
+                            <li>Programming robot tasks</li>
+                            <li>Design robots to solve problems</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="flex flex-row justify-between gap-16">
+                <div class="image-col">
+                    <img src="https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg"/>
+                </div>
+                <div class="info-col flex flex-col gap-10">
+                    <div>
+                        <h3>Course Outcome Cases</h3>
+                        <p>In the LEGO Robotics course, Yu used the building and programming skills he learned to design and build a robot that can fold clothes efficiently. With this innovative work, he stood out in the LEGO Innovation Competition and won the gold medal.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="flex flex-row justify-between">
+            <div class="flex flex-row items-center gap-10">
+                <div class="absolute tiny-bubble"></div>
+                <p class="ml-12">Competitions</p>
+            </div>
+            <div class="flex flex-row items-center gap-10">
+                <div class="absolute tiny-bubble"></div>
+                <p class="ml-12">Projects</p>
+            </div>
+            <div class="flex flex-row items-center gap-10">
+                <div class="absolute tiny-bubble"></div>
+                <p class="ml-12">Flexible</p>
+            </div>
+            <div class="flex flex-row items-center gap-10">
+                <div class="absolute tiny-bubble"></div>
+                <p class="ml-12">Cancel anytime</p>
+            </div>
+        </div>
+
+        <hr class="divider">
+
+        <div class="flex flex-row justify-between">
+            <div>
+                <h3>Irvine</h3>
+                <ul>
+                    <li>920 Roosevelt #200 Irvine, CA</li>
+                    <li>(949) 236-7896</li>
+                    <li>www.codingmind.com</li>
+                </ul>
+            </div>
+
+            <div class="flex flex-row justify-end">
+                <p class="next-to-qr">Scan for free trial class</p>
+                <img class="qr-code" src="static/qr_code.png"/>
+            </div>
+        </div>
+    </body>
+
+    <style>
+        @font-face {
+            font-family: "DouYu";
+            src: url("static/douyuFont-2.otf") format("opentype");
+        }
+        body {
+            font-family: "Outfit", serif;
+        }
+        .course-level {
+            font-size: 400px;
+            font-weight: 800;
+            line-height: 300px;
+        }
+        .course-number {
+            font-size: 150px;
+            font-weight: 1000;
+            line-height: 130px;
+        }
+        .class-name {
+            font-size: 50px;
+            font-weight: 500;
+            line-height: 60px;
+            letter-spacing: 2px;
+            font-family: "DouYu", sans-serif;
+        }
+        .divider {
+            border-top: 7px solid #000000;
+        }
+        .image-col {
+            width: 45%;
+        }
+        .image-col img {
+            height: 100%;
+            border-top-left-radius: 75px;
+            border-top-right-radius: 75px;
+            border-bottom-right-radius: 75px;
+            object-fit: cover;
+        }
+        .info-col {
+            width: 55%;
+        }
+        .tiny-bubble {
+            width: 35px;
+            height: 35px;
+            background-color: #000000;
+            border-top-left-radius: 50%;
+            border-top-right-radius: 50%;
+            border-bottom-right-radius: 50%;
+        }
+        .qr-code {
+            height: 225px;
+        }
+        .next-to-qr {
+            width: 20%;
+            font-family: "DouYu", sans-serif;
+        }
+        .logo {
+            height: 75px;
+        }
+        .primary {
+            height: 525px;
+        }
+        html {
+            padding: 7rem;
+        }
+        p {
+            font-size: 30px;
+        }
+        h3 {
+            font-size: 30px;
+            font-weight: bold;
+        }
+        li {
+            list-style-type: circle;
+            font-weight: 400;
+            font-size: 30px;
+        }
+        ul {
+            margin-left: 3rem;
+            width: 100%;
+        }
+        footer {
+            width: 77%;
+            position: absolute;
+            bottom:8rem;
+        }
+    </style>
+</html>

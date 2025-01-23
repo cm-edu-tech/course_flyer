@@ -1,0 +1,55 @@
+{
+    "month": "december",
+    "header": {
+        "en": "Congratulations to [STUDENT]",
+        "cn": "祝贺[STUDENT]"
+    },
+    "types": {
+        "competition": {
+            "en": "for acheiving [PLACEMENT] in [COMPETITION]!",
+            "cn": "在[COMPETITION]中获得[PLACEMENT]!"
+        },
+        "project": {
+            "en": "for completing [PROJECT NAME]!",
+            "cn": "完成[PROJECT NAME]!"
+        },
+        "university": {
+            "en": "for receiving an offer from [UNIVERSITY]!",
+            "cn": "收到[UNIVERSITY]的录取通知!"
+        }
+    },
+    "accomplishments": [
+        {
+            "type": "competition",
+            "student": "John Doe",
+            "competition": "ACSL",
+            "placement": "1st place"
+        },
+        {
+            "type": "competition",
+            "student": "John Doe",
+            "competition": "ACSL",
+            "placement": "1st place"
+        },
+        {
+            "type": "project",
+            "student": "John Doe",
+            "project_name": "Mobile App"
+        },
+        {
+            "type": "project",
+            "student": "John Doe",
+            "project_name": "Mobile App"
+        },
+        {
+            "type": "university",
+            "student": "John Doe",
+            "university": "Johns Hopkins"
+        },
+        {
+            "type": "university",
+            "student": "John Doe",
+            "university": "Johns Hopkins"
+        }
+    ]
+}
