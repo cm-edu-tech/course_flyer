@@ -71,7 +71,12 @@
                         if (id == "first_page") appendString = "Page 1";
                         if (id == "second_page") appendString = "Page 2";
 
-                        link.download = `${name} Flyer ${appendString}.png`;
+                        const lang = getUrlParam("lang");
+                        let langString = "";
+                        if (lang == "en") langString = "English";
+                        if (lang == "cn") langString = "Chinese";
+
+                        link.download = `${name} Flyer ${appendString} (${langString}).png`;
                         link.href = canvas.toDataURL('image/png');
                         link.click();
                     })
