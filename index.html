@@ -66,7 +66,12 @@
                         }
 
                         const link = document.createElement('a');
-                        link.download = `trial-class-${id}.png`;
+                        const name = document.querySelector(".class-name").innerText;
+                        let appendString = "";
+                        if (id == "first_page") appendString = "Page 1";
+                        if (id == "second_page") appendString = "Page 2";
+
+                        link.download = `${name} Flyer ${appendString}.png`;
                         link.href = canvas.toDataURL('image/png');
                         link.click();
                     })
