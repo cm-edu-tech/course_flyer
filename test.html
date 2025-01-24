@@ -50,7 +50,7 @@
             // Temporarily adjust text position
             adjustTextPosition(true);
 
-            const element = document.querySelector(`.page`);
+            const element = document.querySelector(`.${id}`);
             if (element) {
                 html2canvas(element, {
                     useCORS: true,
@@ -105,7 +105,8 @@
                 const content = await response.json();
 
                 level = content.course_level;
-                document.querySelector(".page").classList.add(level);
+                document.querySelector(".first_page").classList.add(level);
+                document.querySelector(".second_page").classList.add(level);
                 document.querySelector(".course-number").innerText = content.course_number;
                 document.querySelector(".class-name").innerText = content.course_name[lang];
                 document.querySelector(".short_description").innerText = content.short_description[lang];
@@ -220,7 +221,7 @@
         renderCourseContent();
     </script>
 
-    <body class="page">
+    <body class="web-page">
         <div class="fixed top-4 right-4 flex gap-4 z-50">
             <button onclick="captureAndDownload('cn')" class="download-btn hidden">
                 <p>下载中文版</p>
@@ -236,109 +237,111 @@
             </button>
         </div>
 
-        <div class="flex flex-col gap-16 first_page">
-            <div class="flex gap-5">
-                <h1 class="course-level"></h1>
-                <div class="w-full flex flex-col justify-between">
-                    <div class="flex justify-between">
-                        <h1 class="course-number"></h1>
-                        <img class="logo" src="static/cm logo white.png" />
-                    </div>
-                    <h2 class="class-name"></h2>
-                </div>
-            </div>
-    
-            <hr class="divider">
-    
-            <div class="flex flex-col gap-16">
-                <div class="flex flex-row justify-between gap-16">
-                    <div class="image-col">
-                        <img class="course_content_photo"/>
-                    </div>
-                    <div class="info-col flex flex-col gap-10">
-                        <p class="short_description"></p>
-                        <div>
-                            <h3 class="course_content_base"></h3>
-                            <ul>
-                                <li class="course_content_0"></li>
-                                <li class="course_content_1"></li>
-                            </ul>
+        <div>
+            <div class="flex flex-col gap-16 first_page page">
+                <div class="flex gap-5">
+                    <h1 class="course-level"></h1>
+                    <div class="w-full flex flex-col justify-between">
+                        <div class="flex justify-between">
+                            <h1 class="course-number"></h1>
+                            <img class="logo" src="static/cm logo white.png" />
                         </div>
-                        <div>
-                            <h3 class="course_outcomes_base"></h3>
-                            <ul>
-                                <li class="course_outcomes_0"></li>
-                                <li class="course_outcomes_1"></li>
-                                <li class="course_outcomes_2"></li>
-                            </ul>
-                        </div>
+                        <h2 class="class-name"></h2>
                     </div>
                 </div>
-                <div class="flex flex-row justify-between gap-16">
-                    <div class="image-col">
-                        <img class="course_outcomes_photo"/>
-                    </div>
-                    <div class="info-col flex flex-col gap-10">
-                        <div>
-                            <h3 class="course_outcome_cases_base"></h3>
-                            <p class="course_outcome_cases"></p>
+        
+                <hr class="divider">
+        
+                <div class="flex flex-col gap-16">
+                    <div class="flex flex-row justify-between gap-16">
+                        <div class="image-col">
+                            <img class="course_content_photo"/>
+                        </div>
+                        <div class="info-col flex flex-col gap-10">
+                            <p class="short_description"></p>
+                            <div>
+                                <h3 class="course_content_base"></h3>
+                                <ul>
+                                    <li class="course_content_0"></li>
+                                    <li class="course_content_1"></li>
+                                </ul>
+                            </div>
+                            <div>
+                                <h3 class="course_outcomes_base"></h3>
+                                <ul>
+                                    <li class="course_outcomes_0"></li>
+                                    <li class="course_outcomes_1"></li>
+                                    <li class="course_outcomes_2"></li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
+                    <div class="flex flex-row justify-between gap-16">
+                        <div class="image-col">
+                            <img class="course_outcomes_photo"/>
+                        </div>
+                        <div class="info-col flex flex-col gap-10">
+                            <div>
+                                <h3 class="course_outcome_cases_base"></h3>
+                                <p class="course_outcome_cases"></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        
+                <div class="flex flex-row justify-between">
+                    <div class="flex flex-row items-center gap-10">
+                        <div class="absolute tiny-bubble"></div>
+                        <p class="ml-12 pro competitions_base"></p>
+                    </div>
+                    <div class="flex flex-row items-center gap-10">
+                        <div class="absolute tiny-bubble"></div>
+                        <p class="ml-12 pro projects_base"></p>
+                    </div>
+                    <div class="flex flex-row items-center gap-10">
+                        <div class="absolute tiny-bubble"></div>
+                        <p class="ml-12 pro flexible_base"></p>
+                    </div>
+                    <div class="flex flex-row items-center gap-10">
+                        <div class="absolute tiny-bubble"></div>
+                        <p class="ml-12 pro cancel_base"></p>
+                    </div>
+                </div>
+        
+                <hr class="divider">
+        
+                <div class="flex flex-row justify-between">
+                    <div class="w-full">
+                        <h3 class="campus_name"></h3>
+                        <ul>
+                            <li class="campus_address"></li>
+                            <li class="campus_phone_number"></li>
+                            <li class="campus_website"></li>
+                        </ul>
+                    </div>
+        
+                    <div class="flex flex-row justify-end">
+                        <p class="scan_for_trial mr-4">Scan for free trial class</p>
+                        <img class="qr-code"/>
+                    </div>
                 </div>
             </div>
     
-            <div class="flex flex-row justify-between">
-                <div class="flex flex-row items-center gap-10">
-                    <div class="absolute tiny-bubble"></div>
-                    <p class="ml-12 pro competitions_base"></p>
-                </div>
-                <div class="flex flex-row items-center gap-10">
-                    <div class="absolute tiny-bubble"></div>
-                    <p class="ml-12 pro projects_base"></p>
-                </div>
-                <div class="flex flex-row items-center gap-10">
-                    <div class="absolute tiny-bubble"></div>
-                    <p class="ml-12 pro flexible_base"></p>
-                </div>
-                <div class="flex flex-row items-center gap-10">
-                    <div class="absolute tiny-bubble"></div>
-                    <p class="ml-12 pro cancel_base"></p>
-                </div>
-            </div>
-    
-            <hr class="divider">
-    
-            <div class="flex flex-row justify-between">
-                <div class="w-full">
-                    <h3 class="campus_name"></h3>
-                    <ul>
-                        <li class="campus_address"></li>
-                        <li class="campus_phone_number"></li>
-                        <li class="campus_website"></li>
-                    </ul>
+            <div class="flex flex-col gap-16 second_page page">
+                <div class="white-bubble text-center">
+                    <h1 class="m-3 pt-3 syllabus-header"></h1>
                 </div>
     
-                <div class="flex flex-row justify-end">
-                    <p class="scan_for_trial mr-4">Scan for free trial class</p>
-                    <img class="qr-code"/>
+                <div class="flex flex-row gap-10 table-container">
+                    <table class="module-table first-half"></table>
+                    <table class="module-table second-half"></table>
                 </div>
-            </div>
-        </div>
-
-        <div class="flex flex-col gap-16 second_page">
-            <div class="white-bubble text-center">
-                <h1 class="m-3 pt-3 syllabus-header"></h1>
-            </div>
-
-            <div class="flex flex-row gap-10 table-container">
-                <table class="module-table first-half"></table>
-                <table class="module-table second-half"></table>
-            </div>
-
-            <div class="flex flex-row w-full items-center">
-                <hr class="divider mr-6">
-                <h3 class="tagline"></h3>
-                <hr class="divider ml-6">
+    
+                <div class="flex flex-row w-full items-center">
+                    <hr class="divider mr-6">
+                    <h3 class="tagline"></h3>
+                    <hr class="divider ml-6">
+                </div>
             </div>
         </div>
     </body>
@@ -410,14 +413,32 @@
             border-top: 7px solid;
         }
         .image-col {
+            position: relative;
             width: 45%;
-        }
-        .image-col img {
-            height: 100%;
+            overflow: hidden;
             border-top-left-radius: 75px;
             border-top-right-radius: 75px;
             border-bottom-right-radius: 75px;
-            object-fit: cover;
+        }
+
+        .image-col img {
+            /* Absolutely position the <img> so it can "overflow" and be clipped */
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            
+            /* Force the image to cover in both dimensions without distorting aspect ratio */
+            width: auto;
+            height: 100%;
+            
+            /* Ensure the container is fully covered (no empty space),
+                so if the container is wider or taller than the image’s aspect ratio,
+                the image will grow beyond 100% in at least one dimension. */
+            min-width: 100%;
+            min-height: 100%;
+            max-width: none;
+            max-height: none;
         }
         .info-col {
             width: 55%;
@@ -489,7 +510,7 @@
             align-items: flex-start;
         }
 
-        body.l1 {
+        .first_page.l1, .second_page.l1 {
             background-color: #CED2EC;
         }
         .l1 {
@@ -503,7 +524,7 @@
             .syllabus-header        { color: #374073; }
         }
 
-        body.l2 {
+        .first_page.l2, .second_page.l2 {
             background-color: #BDE4E0;
         }
         .l2 {
@@ -517,7 +538,7 @@
             .syllabus-header        { color: #22958A; }
         }
 
-        body.l3 {
+        .first_page.l3, .second_page.l3 {
             background-color: #22958A;
         }
         .l3 {
@@ -533,7 +554,7 @@
             .syllabus-header        { color: #22958A; }
         }
 
-        body.l4 {
+        .first_page.l4, .second_page.l4 {
             background-color: #FFCCBC;
         }
         .l4 {
@@ -547,7 +568,7 @@
             .syllabus-header        { color: #FF6738; }
         }
 
-        body.l5 {
+        .first_page.l5, .second_page.l5 {
             background-color: #FF6738;
         }
         .l5 {
@@ -563,7 +584,7 @@
             .syllabus-header        { color: #FF6738; }
         }
 
-        body.l6 {
+        .first_page.l6, .second_page.l6 {
             background-color: #374073;
         }
         .l6 {
