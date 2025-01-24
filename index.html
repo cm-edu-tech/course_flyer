@@ -98,7 +98,7 @@
             const lang = getUrlParam("lang");
             let level = "";
             try {
-                const response = await fetch(`static/${courseId}.json`);
+                const response = await fetch(`static/courses/${courseId}.json`);
                 if (!response.ok) {
                     throw new Error(`HTTP error! Status: ${response.status}`);
                 }
