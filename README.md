@@ -11,7 +11,7 @@ First, note the following parameters.
 | Parameter Name | Description                                                                              |
 |----------------|------------------------------------------------------------------------------------------|
 | `courseId`     | The name of the JSON file corresponding to this course. For example, `"mindstorms_1"`.   |
-| `campus`       | One of the following names exactly: Irvine, Seattle, Arcadia, Diamond Bar, WL, San Diego |
+| `campus`       | One of the following names exactly: `"irvine"`, `"seattle"`, `"arcadia"`, `"diamond_bar"`|
 | `lang`         | `en` for English or `cn` for Chinese.                                                    |
 
 To enter these parameters, replace each part of the following URL with their appropriate value and enter it into your address bar.
