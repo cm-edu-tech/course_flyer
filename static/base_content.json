@@ -1,0 +1,80 @@
+{  
+    "levels": {
+        "l1": "1",
+        "l2": "2",
+        "l3": "3",
+        "l4": "4",
+        "l5": "5",
+        "l6": "6"
+    },
+    "course_content": {
+        "cn": "课程内容",
+        "en": "Course Content"
+    },
+    "course_outcomes": {
+        "cn": "课程成果",
+        "en": "Course Outcomes"
+    },
+    "course_outcome_cases": {
+        "cn": "课程成果案例",
+        "en": "Course Outcome Cases"
+    },
+    "competitions": {
+        "cn": "比赛",
+        "en": "Competitions"
+    },
+    "projects": {
+        "cn": "项目",
+        "en": "Projects"
+    },
+    "flexible": {
+        "cn": "灵活性",
+        "en": "Flexible"
+    },
+    "cancel_anytime": {
+        "cn": "随时取消",
+        "en": "Cancel Anytime"
+    },
+    "scan_for_trial": {
+        "cn": "扫码试课",
+        "en": "Scan for free trial class"
+    },
+    "syllabus": {
+        "cn": "教学模块",
+        "en": "Teaching Modules"
+    },
+    "tagline": {
+        "cn": "从零到一，解锁未来",
+        "en": "From Zero to One, Unlocking the Future"
+    },
+    "campuses": {
+        "irvine": {
+            "name": "Irvine",
+            "address": "920 Roosevelt #200 Irvine, CA",
+            "phone_number": "(949) 236-7896",
+            "website": "www.codingmind.com",
+            "qr": "qr_code.png"
+        },
+        "diamond_bar": {
+            "name": "Diamond Bar",
+            "address": "21308 Pathfinder Rd, Unit 206, Diamond Bar, CA 91765",
+            "phone_number": "(562) 846-2887",
+            "website": "www.codingmind.com",
+            "qr": "qr_db.png"
+        },
+        "seattle": {
+            "name": "Seattle",
+            "address": "4006 148th Ave NE, Redmond, WA 98052",
+            "phone_number": "(949) 236-7896",
+            "website": "www.codingmind.com",
+            "qr": "qr_seattle.png"
+        },
+        "arcadia": {
+            "name": "Arcadia",
+            "address": "1010 S Baldwin Ave #202, Arcadia, CA 91007",
+            "phone_number": "(949) 236-7896",
+            "website": "www.codingmind.com",
+            "qr": "qr_arcadia.png"
+        }
+    }
+}

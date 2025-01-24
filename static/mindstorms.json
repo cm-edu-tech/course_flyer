@@ -1,0 +1,125 @@
+{
+    "course_level": "l1",
+    "course_number": "01",
+    "course_name": {
+        "cn": "乐高机器人编程",
+        "en": "LEGO Mindstorms Programming"
+    },
+    "short_description": {
+        "cn": "乐高机器人课程充分发展学生的STEM能力和创新思维。",
+        "en": "The LEGO robotics course fully develops students' STEM abilities and innovative thinking."
+    },
+    "course_content": [
+        {
+            "cn": "掌握机器人搭建技能",
+            "en": "Master robot building skills"
+        },
+        {
+            "cn": "学习积木编程",
+            "en": "Learn block programming"
+        }
+    ],
+    "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
+    "course_outcomes": [
+        {
+            "cn": "搭建各种机器人模型",
+            "en": "Build various robot models"
+        },
+        {
+            "cn": "编程机器人任务",
+            "en": "Programming robot tasks"
+        },
+        {
+            "cn": "设计机器人解决问题",
+            "en": "Design robots to solve problems"
+        }
+    ],
+    "course_outcomes_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
+    "course_outcome_cases": {
+        "cn": "在乐高机器人课程中，小宇利用所学的搭建和编程技能设计并制作了一台可以高效叠衣服的机器人。凭借这一创新作品，他在乐高创新大赛中脱颖而出，获得了金奖。",
+        "en": "In the LEGO Robotics course, Yu used the building and programming skills he learned to design and build a robot that can fold clothes efficiently. With this innovative work, he stood out in the LEGO Innovation Competition and won the gold medal."
+    },
+    "modules": [
+        [
+            {
+                "id": "1-1",
+                "cn": "乐高机器人简介",
+                "en": "Introduction to LEGO Robotics"
+            },
+            {
+                "id": "1-2",
+                "cn": "搭建简单机器人",
+                "en": "Building a Simple Robot"
+            },
+            {
+                "id": "1-3",
+                "cn": "小游戏：自动驾驶汽车",
+                "en": "Mini-game: Self Driving Car"
+            },
+            {
+                "id": "1-4",
+                "cn": "为机器人添加刀片",
+                "en": "Adding a Blade to Your Robot"
+            }
+        ],
+        [
+            {
+                "id": "2-1",
+                "cn": "搭建蝎子尾巴",
+                "en": "Building the Scorpion Tail"
+            },
+            {
+                "id": "2-2",
+                "cn": "搭建腿部结构",
+                "en": "Building the Legs"
+            },
+            {
+                "id": "2-3",
+                "cn": "添加爪子和传感器",
+                "en": "Adding Claws and a Sensor"
+            },
+            {
+                "id": "2-4",
+                "cn": "遥控Spik3r",
+                "en": "Spik3r with a Remote"
+            },
+            {
+                "id": "2-5",
+                "cn": "使用信标",
+                "en": "Using a Beacon"
+            },
+            {
+                "id": "2-6",
+                "cn": "小游戏：捕捉虫子",
+                "en": "Mini-game: Hunt the Bug"
+            }
+        ],
+        [
+            {
+                "id": "3-1",
+                "cn": "搭建抓取爪",
+                "en": "Building the Gripping Claws"
+            },
+            {
+                "id": "3-2",
+                "cn": "搭建轮子",
+                "en": "Building the Wheels"
+            },
+            {
+                "id": "3-3",
+                "cn": "练习运动功能",
+                "en": "Practicing Movement"
+            },
+            {
+                "id": "3-4",
+                "cn": "添加遥控器",
+                "en": "Adding a Remote"
+            },
+            {
+                "id": "3-5",
+                "cn": "小游戏：捡起木棍",
+                "en": "Mini-game: Pick up Sticks"
+            }
+        ]
+    ]
+}
