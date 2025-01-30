@@ -263,7 +263,7 @@
                 <hr class="divider">
         
                 <div class="flex flex-col gap-16">
-                    <div class="flex flex-row justify-between gap-16">
+                    <div class="flex flex-row justify-between gap-16 course-content">
                         <div class="image-col">
                             <img class="course_content_photo"/>
                         </div>
@@ -286,7 +286,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="flex flex-row justify-between gap-16">
+                    <div class="flex flex-row justify-between gap-16 course-outcome">
                         <div class="image-col">
                             <img class="course_outcomes_photo"/>
                         </div>
@@ -331,7 +331,7 @@
                     </div>
         
                     <div class="flex flex-row justify-end">
-                        <p class="scan_for_trial mr-4">Scan for free trial class</p>
+                        <p class="scan_for_trial mr-4"></p>
                         <img class="qr-code"/>
                     </div>
                 </div>
@@ -422,6 +422,12 @@
             flex-grow: 1;
             border-top: 7px solid;
         }
+        .course-content {
+            height: 550px;
+        }
+        .course-outcome {
+            height: 350px;
+        }
         .image-col {
             position: relative;
             width: 45%;
@@ -440,7 +446,7 @@
             
             /* Force the image to cover in both dimensions without distorting aspect ratio */
             width: auto;
-            height: 100%;
+            height: auto;
             
             /* Ensure the container is fully covered (no empty space),
                 so if the container is wider or taller than the image’s aspect ratio,
