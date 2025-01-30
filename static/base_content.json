@@ -20,23 +20,23 @@
         "en": "Course Outcome Cases"
     },
     "competitions": {
-        "cn": "比赛",
-        "en": "Competitions"
+        "cn": "为竞赛做准备",
+        "en": "Prepare for Competitions"
     },
     "projects": {
-        "cn": "项目",
-        "en": "Projects"
+        "cn": "为项目打基础",
+        "en": "Project-Based Learning"
     },
     "flexible": {
-        "cn": "灵活性",
-        "en": "Flexible"
+        "cn": "上课模式灵活",
+        "en": "Flexible Class Mode"
     },
     "cancel_anytime": {
-        "cn": "随时取消",
+        "cn": "无理由退课",
         "en": "Cancel Anytime"
     },
     "scan_for_trial": {
-        "cn": "扫码试课",
+        "cn": "扫码免费试课",
         "en": "Scan for free trial class"
     },
     "syllabus": {
@@ -49,28 +49,28 @@
     },
     "campuses": {
         "irvine": {
-            "name": "Irvine",
+            "name": "Irvine校区",
             "address": "920 Roosevelt #200 Irvine, CA",
             "phone_number": "(949) 236-7896",
             "website": "www.codingmind.com",
             "qr": "qr_code.png"
         },
         "diamond_bar": {
-            "name": "Diamond Bar",
+            "name": "Diamond Bar校区",
             "address": "21308 Pathfinder Rd, Unit 206, Diamond Bar, CA 91765",
             "phone_number": "(562) 846-2887",
             "website": "www.codingmind.com",
             "qr": "qr_db.png"
         },
         "seattle": {
-            "name": "Seattle",
+            "name": "Seattle校区",
             "address": "4006 148th Ave NE, Redmond, WA 98052",
             "phone_number": "(949) 236-7896",
             "website": "www.codingmind.com",
             "qr": "qr_seattle.png"
         },
         "arcadia": {
-            "name": "Arcadia",
+            "name": "Arcadia校区",
             "address": "1010 S Baldwin Ave #202, Arcadia, CA 91007",
             "phone_number": "(949) 236-7896",
             "website": "www.codingmind.com",
