@@ -1,0 +1,228 @@
+{
+    "course_level": "l1",
+    "course_number": "08",
+    "course_name": {
+        "cn": "前端开发 1：HTML 与 CSS",
+        "en": "Frontend Development 1: HTML and CSS"
+    },
+    "short_description": {
+        "cn": "学习 HTML 和 CSS，掌握网页设计与响应式布局。",
+        "en": "Learn HTML and CSS to master web design and responsive layouts."
+    },
+    "course_content": [
+        {
+            "cn": "学习 HTML 和 CSS 基础",
+            "en": "Learn HTML and CSS fundamentals"
+        },
+        {
+            "cn": "掌握布局、动画和媒体查询",
+            "en": "Master layouts, animations, and media queries"
+        }
+    ],
+    "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
+    "course_outcomes": [
+        {
+            "cn": "能够编写 HTML 和 CSS 代码",
+            "en": "Be able to write HTML and CSS code"
+        },
+        {
+            "cn": "设计响应式网站",
+            "en": "Design responsive websites"
+        },
+        {
+            "cn": "创建个人网站作为最终项目",
+            "en": "Create a personal website as a final project"
+        }
+    ],
+    "course_outcomes_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
+    "course_outcome_cases": {
+        "cn": "[待定]",
+        "en": "[TBA]"
+    },
+    "modules": [
+        [
+            {
+                "id": "1-1",
+                "cn": "基本 HTML 标签与 CSS 样式",
+                "en": "Basic HTML Tags and CSS Styles"
+            },
+            {
+                "id": "1-2",
+                "cn": "显示模式、盒模型、宽高",
+                "en": "Display, Box Model, Width, Height"
+            },
+            {
+                "id": "1-3",
+                "cn": "个人简介页面",
+                "en": "About Me Page"
+            },
+            {
+                "id": "1-4",
+                "cn": "类与 ID 选择器",
+                "en": "Class and ID"
+            },
+            {
+                "id": "1-5",
+                "cn": "CSS 浮动",
+                "en": "CSS Floats"
+            },
+            {
+                "id": "1-6",
+                "cn": "图片书页面",
+                "en": "Picture Book Page"
+            },
+            {
+                "id": "1-7",
+                "cn": "Div、Span、锚点与按钮标签",
+                "en": "Div, Span, Anchor, and Button Tags"
+            },
+            {
+                "id": "1-8",
+                "cn": "背景、伪类、Google Fonts",
+                "en": "Backgrounds, Pseudo-Classes, Google Fonts"
+            },
+            {
+                "id": "1-9",
+                "cn": "互动故事页面",
+                "en": "Choose Your Own Adventure Page"
+            }
+        ],
+        [
+            {
+                "id": "2-1",
+                "cn": "有序与无序列表",
+                "en": "Ordered and Unordered Lists"
+            },
+            {
+                "id": "2-2",
+                "cn": "高级选择器",
+                "en": "Advanced Selectors"
+            },
+            {
+                "id": "2-3",
+                "cn": "菜单页面",
+                "en": "Menu Page"
+            },
+            {
+                "id": "2-4",
+                "cn": "表格",
+                "en": "Table"
+            },
+            {
+                "id": "2-5",
+                "cn": "日历页面",
+                "en": "Calendar Page"
+            }
+        ],
+        [
+            {
+                "id": "3-1",
+                "cn": "变换与过渡",
+                "en": "Transform and Transition"
+            },
+            {
+                "id": "3-2",
+                "cn": "CSS 动画",
+                "en": "CSS Animations"
+            },
+            {
+                "id": "3-3",
+                "cn": "动画页面",
+                "en": "Animations Page"
+            }
+        ],
+        [
+            {
+                "id": "4-1",
+                "cn": "HTML 布局标签",
+                "en": "HTML Layout Tags"
+            },
+            {
+                "id": "4-2",
+                "cn": "像素与百分比",
+                "en": "Pixels vs. Percentage"
+            },
+            {
+                "id": "4-3",
+                "cn": "网格与弹性布局",
+                "en": "Grids and Flexboxes"
+            },
+            {
+                "id": "4-4",
+                "cn": "媒体查询、最大宽度与最小宽度",
+                "en": "Media Queries, Max-Width, Min-Width"
+            },
+            {
+                "id": "4-5",
+                "cn": "新闻封面页面",
+                "en": "Newspaper Cover Page"
+            }
+        ],
+        [
+            {
+                "id": "5-1",
+                "cn": "盒阴影、Font Awesome、HTML 符号",
+                "en": "Box Shadow, Font Awesome, HTML Symbols"
+            },
+            {
+                "id": "5-2",
+                "cn": "调色板生成与提取",
+                "en": "Color Palette Generator and Extract"
+            },
+            {
+                "id": "5-3",
+                "cn": "多页面网站与目录",
+                "en": "Multi-Page Websites, Directories"
+            },
+            {
+                "id": "5-4",
+                "cn": "开发者工具",
+                "en": "Inspect Tool"
+            },
+            {
+                "id": "5-5",
+                "cn": "活动页面",
+                "en": "Event Page"
+            }
+        ],
+        [
+            {
+                "id": "6-1",
+                "cn": "定位与 Z-Index",
+                "en": "Positioning and Z-Indices"
+            },
+            {
+                "id": "6-2",
+                "cn": "下拉菜单",
+                "en": "Drop Down Menus"
+            },
+            {
+                "id": "6-3",
+                "cn": "视差网站",
+                "en": "Parallax Website"
+            }
+        ],
+        [
+            {
+                "id": "7-1",
+                "cn": "表单标签、输入与文本区域",
+                "en": "Labels, Inputs, and TextAreas"
+            },
+            {
+                "id": "7-2",
+                "cn": "选择框、选项与数据列表",
+                "en": "Select, Option, and Datalist"
+            },
+            {
+                "id": "7-3",
+                "cn": "字段集与标题",
+                "en": "Fieldset and Legend"
+            },
+            {
+                "id": "7-4",
+                "cn": "调查问卷",
+                "en": "Questionnaire"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "course_level": "l1",
+    "course_number": "07",
+    "course_name": {
+        "cn": "Python 1：入门编程",
+        "en": "Python 1: Introductory Programming"
+    },
+    "short_description": {
+        "cn": "通过各种游戏和项目学习基础但易懂的 Python 编程概念。",
+        "en": "Learn fundamental but simple Python programming concepts through many different games and projects."
+    },
+    "course_content": [
+        {
+            "cn": "掌握 Python 语法和数据类型",
+            "en": "Master Python syntax and data types"
+        },
+        {
+            "cn": "学习循环、条件语句和函数",
+            "en": "Learn loops, conditionals, and functions"
+        }
+    ],
+    "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
+    "course_outcomes": [
+        {
+            "cn": "能够编写简单的 Python 程序",
+            "en": "Be able to write simple Python programs"
+        },
+        {
+            "cn": "掌握专业编程语言的基础知识",
+            "en": "Master the basics of a professional language"
+        },
+        {
+            "cn": "完成 Python 终极项目",
+            "en": "Complete a final Python project"
+        }
+    ],
+    "course_outcomes_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
+    "course_outcome_cases": {
+        "cn": "[待定]",
+        "en": "[TBA]"
+    },
+    "modules": [
+        [
+            {
+                "id": "1-1",
+                "cn": "打印与字符串",
+                "en": "Printing and Strings"
+            },
+            {
+                "id": "1-2",
+                "cn": "导入与时间库",
+                "en": "Import and Time Library"
+            },
+            {
+                "id": "1-3",
+                "cn": "整数与浮点数运算",
+                "en": "Integer and Float Arithmetic"
+            },
+            {
+                "id": "1-4",
+                "cn": "变量与字符串",
+                "en": "Variables and Strings"
+            },
+            {
+                "id": "1-5",
+                "cn": "计数",
+                "en": "Counting"
+            },
+            {
+                "id": "1-6",
+                "cn": "随机数生成",
+                "en": "Random Number Generators"
+            },
+            {
+                "id": "1-7",
+                "cn": "数据类型与转换",
+                "en": "Data Types and Conversions"
+            },
+            {
+                "id": "1-8",
+                "cn": "用户输入",
+                "en": "Input"
+            },
+            {
+                "id": "1-9",
+                "cn": "Turtle 库",
+                "en": "Turtle Library"
+            }
+        ],
+        [
+            {
+                "id": "2-1",
+                "cn": "布尔值",
+                "en": "Booleans"
+            },
+            {
+                "id": "2-2",
+                "cn": "布尔表达式",
+                "en": "Boolean Expressions"
+            },
+            {
+                "id": "2-3",
+                "cn": "逻辑运算符",
+                "en": "Logical Operators"
+            },
+            {
+                "id": "2-4",
+                "cn": "If 语句",
+                "en": "If Statements"
+            },
+            {
+                "id": "2-5",
+                "cn": "Else 语句",
+                "en": "Else Statements"
+            },
+            {
+                "id": "2-6",
+                "cn": "Elif 语句",
+                "en": "Elif Statements"
+            },
+            {
+                "id": "2-7",
+                "cn": "嵌套条件语句",
+                "en": "Nested Conditionals"
+            }
+        ],
+        [
+            {
+                "id": "3-1",
+                "cn": "无限循环",
+                "en": "Forever and Never Loops"
+            },
+            {
+                "id": "3-2",
+                "cn": "While 循环条件",
+                "en": "While Loop Conditions"
+            },
+            {
+                "id": "3-3",
+                "cn": "While 循环计数",
+                "en": "Counting with While Loops"
+            },
+            {
+                "id": "3-4",
+                "cn": "While 循环结构",
+                "en": "While Loop Constructs"
+            },
+            {
+                "id": "3-5",
+                "cn": "连续输入检查",
+                "en": "Continuous Input Checking"
+            }
+        ],
+        [
+            {
+                "id": "4-1",
+                "cn": "Turtle 方法",
+                "en": "Turtle Methods"
+            },
+            {
+                "id": "4-2",
+                "cn": "For 循环 vs. While 循环",
+                "en": "For Loops vs. While Loops"
+            },
+            {
+                "id": "4-3",
+                "cn": "For 循环计数",
+                "en": "Counting with For Loops"
+            },
+            {
+                "id": "4-4",
+                "cn": "For 循环结构",
+                "en": "For Loop Constructs"
+            },
+            {
+                "id": "4-5",
+                "cn": "Turtle 形状",
+                "en": "Turtle Shapes"
+            }
+        ],
+        [
+            {
+                "id": "5-1",
+                "cn": "定义函数",
+                "en": "Defining Functions"
+            },
+            {
+                "id": "5-2",
+                "cn": "函数作为蓝图",
+                "en": "Functions as Blueprints"
+            },
+            {
+                "id": "5-3",
+                "cn": "Turtle 与函数",
+                "en": "Functions with Turtle"
+            },
+            {
+                "id": "5-4",
+                "cn": "函数参数",
+                "en": "Function Parameters"
+            },
+            {
+                "id": "5-5",
+                "cn": "Turtle 函数参数",
+                "en": "Parameters with Turtle Functions"
+            },
+            {
+                "id": "5-6",
+                "cn": "输入参数",
+                "en": "Input Arguments"
+            }
+        ]
+    ]
+}

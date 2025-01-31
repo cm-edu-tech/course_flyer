@@ -1,0 +1,202 @@
+{
+    "course_level": "l1",
+    "course_number": "10",
+    "course_name": {
+        "cn": "Unity 1：游戏开发入门",
+        "en": "Unity 1: Intro to Game Development"
+    },
+    "short_description": {
+        "cn": "学习 Unity 基础，掌握游戏开发核心概念。",
+        "en": "Learn Unity fundamentals and master core game development concepts."
+    },
+    "course_content": [
+        {
+            "cn": "熟悉 Unity 引擎与编辑器",
+            "en": "Get familiar with the Unity engine and editor"
+        },
+        {
+            "cn": "学习游戏对象、UI 和场景管理",
+            "en": "Learn GameObjects, UI, and scene management"
+        }
+    ],
+    "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
+    "course_outcomes": [
+        {
+            "cn": "能够在 Unity 中创建基础游戏",
+            "en": "Be able to create basic games in Unity"
+        },
+        {
+            "cn": "掌握 Unity 组件、灯光和动画",
+            "en": "Understand Unity components, lighting, and animations"
+        },
+        {
+            "cn": "使用 GitHub 进行项目管理",
+            "en": "Use GitHub for project management"
+        }
+    ],
+    "course_outcomes_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
+    "course_outcome_cases": {
+        "cn": "[待定]",
+        "en": "[TBA]"
+    },
+    "modules": [
+        [
+            {
+                "id": "1-1",
+                "cn": "Unity 介绍",
+                "en": "Introduction to Unity"
+            },
+            {
+                "id": "1-2",
+                "cn": "GitHub 入门",
+                "en": "Intro to GitHub"
+            },
+            {
+                "id": "1-3",
+                "cn": "熟悉 Unity 界面",
+                "en": "Getting Familiar"
+            },
+            {
+                "id": "1-4",
+                "cn": "组件与游戏对象",
+                "en": "Components and GameObjects"
+            },
+            {
+                "id": "1-5",
+                "cn": "速度球游戏",
+                "en": "Speedball"
+            },
+            {
+                "id": "1-6",
+                "cn": "球掉落游戏",
+                "en": "Ball Drop"
+            },
+            {
+                "id": "1-7",
+                "cn": "滚动小球游戏",
+                "en": "Roll a Ball"
+            }
+        ],
+        [
+            {
+                "id": "2-1",
+                "cn": "第一人称游戏介绍",
+                "en": "First Person Games"
+            },
+            {
+                "id": "2-2",
+                "cn": "灯光与纹理",
+                "en": "Lighting and Texturing"
+            },
+            {
+                "id": "2-3",
+                "cn": "资源与包管理器",
+                "en": "Asset and Package Manager"
+            },
+            {
+                "id": "2-4",
+                "cn": "第一人称视角",
+                "en": "First Person POV"
+            },
+            {
+                "id": "2-5",
+                "cn": "音频与输入",
+                "en": "Audio and Input"
+            },
+            {
+                "id": "2-6",
+                "cn": "导航与动画",
+                "en": "Navigation and Animation"
+            },
+            {
+                "id": "2-7",
+                "cn": "第一人称平台游戏",
+                "en": "First Person Platforming"
+            },
+            {
+                "id": "2-8",
+                "cn": "射击与投掷",
+                "en": "Shoot and Throw"
+            },
+            {
+                "id": "2-9",
+                "cn": "第一人称射击游戏",
+                "en": "FPS Game"
+            }
+        ],
+        [
+            {
+                "id": "3-1",
+                "cn": "环境塑造",
+                "en": "Shaping an Environment"
+            },
+            {
+                "id": "3-2",
+                "cn": "地形与工具",
+                "en": "Terrain and Its Tools"
+            },
+            {
+                "id": "3-3",
+                "cn": "显示/隐藏 UI 文本",
+                "en": "Appearing/Disappearing UI-Text"
+            },
+            {
+                "id": "3-4",
+                "cn": "检查点",
+                "en": "Checkpoints"
+            },
+            {
+                "id": "3-5",
+                "cn": "摄像机定位",
+                "en": "Positioning Camera"
+            },
+            {
+                "id": "3-6",
+                "cn": "导入 2D 纹理",
+                "en": "Importing 2D Textures"
+            },
+            {
+                "id": "3-7",
+                "cn": "探索平台游戏",
+                "en": "Exploration Platformer"
+            },
+            {
+                "id": "3-8",
+                "cn": "赛车游戏",
+                "en": "Car Racer"
+            }
+        ],
+        [
+            {
+                "id": "4-1",
+                "cn": "用户界面元素与场景管理",
+                "en": "User Interface Elements and Scene Management"
+            },
+            {
+                "id": "4-2",
+                "cn": "UI 元素",
+                "en": "UI Elements"
+            },
+            {
+                "id": "4-3",
+                "cn": "UI 元素进阶",
+                "en": "UI Elements Continued"
+            },
+            {
+                "id": "4-4",
+                "cn": "井字棋游戏",
+                "en": "Tic Tac Toe"
+            },
+            {
+                "id": "4-5",
+                "cn": "构建设置与场景切换",
+                "en": "Build Settings and Changing Scenes"
+            },
+            {
+                "id": "4-6",
+                "cn": "菜单创建",
+                "en": "Menu Creation"
+            }
+        ]
+    ]
+}

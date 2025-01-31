@@ -1,0 +1,179 @@
+{
+    "course_level": "l1",
+    "course_number": "12",
+    "course_name": {
+        "cn": "科技创业 101：青年企业家之旅",
+        "en": "Tech Startups 101: Young Entrepreneur’s Journey"
+    },
+    "short_description": {
+        "cn": "学习科技创业的基础知识，培养商业技能并完成创业投资演示。",
+        "en": "Learn the fundamentals of tech entrepreneurship, develop business skills, and complete an investor pitch."
+    },
+    "course_content": [
+        {
+            "cn": "了解初创企业的核心概念",
+            "en": "Understand core startup concepts"
+        },
+        {
+            "cn": "学习商业策划、市场分析和融资策略",
+            "en": "Learn business planning, market analysis, and funding strategies"
+        }
+    ],
+    "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
+    "course_outcomes": [
+        {
+            "cn": "掌握创业流程并制定商业计划",
+            "en": "Create a startup with like-minded peers"
+        },
+        {
+            "cn": "提升团队协作、演讲和推销能力",
+            "en": "Enhance teamwork and public speaking skills"
+        },
+        {
+            "cn": "完成正式的投资人路演",
+            "en": "Deliver a formal investor pitch"
+        }
+    ],
+    "course_outcomes_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
+    "course_outcome_cases": {
+        "cn": "[待定]",
+        "en": "[TBA]"
+    },
+    "modules": [
+        [
+            {
+                "id": "1-1",
+                "cn": "什么是创业公司？",
+                "en": "What is a Startup?"
+            },
+            {
+                "id": "1-2",
+                "cn": "成功创业的关键要素",
+                "en": "Key Elements of a Successful Startup"
+            },
+            {
+                "id": "1-3",
+                "cn": "如何发现商业机会",
+                "en": "Identifying Business Opportunities"
+            },
+            {
+                "id": "1-4",
+                "cn": "初创企业的挑战与机遇",
+                "en": "Challenges and Opportunities in Startups"
+            },
+            {
+                "id": "1-5",
+                "cn": "Wix 平台介绍",
+                "en": "Introduction to the Wix Platform"
+            }
+        ],
+        [
+            {
+                "id": "2-1",
+                "cn": "组建团队与角色分工",
+                "en": "Forming Teams and Assigning Roles"
+            },
+            {
+                "id": "2-2",
+                "cn": "头脑风暴创业点子",
+                "en": "Brainstorming Startup Ideas"
+            },
+            {
+                "id": "2-3",
+                "cn": "市场分析与目标受众",
+                "en": "Market Analysis and Target Audience"
+            },
+            {
+                "id": "2-4",
+                "cn": "制定商业模式",
+                "en": "Developing a Business Model"
+            },
+            {
+                "id": "2-5",
+                "cn": "团队展示创业构想",
+                "en": "Team Presentation of Startup Concept"
+            }
+        ],
+        [
+            {
+                "id": "3-1",
+                "cn": "如何设计引人注目的公司网站",
+                "en": "Designing an Engaging Company Website"
+            },
+            {
+                "id": "3-2",
+                "cn": "使用 Wix 创建网站",
+                "en": "Building a Website with Wix"
+            },
+            {
+                "id": "3-3",
+                "cn": "网站内容撰写与优化",
+                "en": "Writing and Optimizing Website Content"
+            },
+            {
+                "id": "3-4",
+                "cn": "案例分析：优秀创业公司网站",
+                "en": "Case Study: Great Startup Websites"
+            },
+            {
+                "id": "3-5",
+                "cn": "教师反馈与网站修改",
+                "en": "Instructor Feedback and Website Refinement"
+            }
+        ],
+        [
+            {
+                "id": "4-1",
+                "cn": "如何制作投资人演示文稿",
+                "en": "Creating an Investor Pitch Deck"
+            },
+            {
+                "id": "4-2",
+                "cn": "讲故事的艺术：吸引投资人",
+                "en": "The Art of Storytelling in Pitching"
+            },
+            {
+                "id": "4-3",
+                "cn": "如何进行有效的商业演讲",
+                "en": "Effective Business Presentations"
+            },
+            {
+                "id": "4-4",
+                "cn": "团队实践演讲",
+                "en": "Team Practice Pitches"
+            },
+            {
+                "id": "4-5",
+                "cn": "录制投资人演示视频",
+                "en": "Recording Investor Pitch Videos"
+            }
+        ],
+        [
+            {
+                "id": "5-1",
+                "cn": "视频编辑与最终修改",
+                "en": "Editing and Finalizing Pitch Videos"
+            },
+            {
+                "id": "5-2",
+                "cn": "团队展示最终创业项目",
+                "en": "Presenting Final Startup Projects"
+            },
+            {
+                "id": "5-3",
+                "cn": "小组讨论与反馈",
+                "en": "Group Discussion and Feedback"
+            },
+            {
+                "id": "5-4",
+                "cn": "创业精神与下一步行动",
+                "en": "Entrepreneurial Mindset and Next Steps"
+            },
+            {
+                "id": "5-5",
+                "cn": "课程回顾与结业典礼",
+                "en": "Course Review and Closing Ceremony"
+            }
+        ]
+    ]
+}

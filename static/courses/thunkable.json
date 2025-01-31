@@ -1,0 +1,128 @@
+{
+    "course_level": "l1",
+    "course_number": "03",
+    "course_name": {
+        "cn": "使用 Thunkable 进行应用程序开发",
+        "en": "App Development with Thunkable"
+    },
+    "short_description": {
+        "cn": "《使用 Thunkable 进行应用程序开发》课程使用 Thunkable 开发工具，让学生能够快速设计移动应用程序的功能。",
+        "en": "The App Development with Thunkable course uses the Thunkable development platform to allow students to quickly design features of a mobile application."
+    },
+    "course_content": [
+        {
+            "cn": "创建自己的移动应用",
+            "en": "Create your own mobile apps"
+        },
+        {
+            "cn": "学习积木编程",
+            "en": "Learn block-based programming"
+        }
+    ],
+    "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
+    "course_outcomes": [
+        {
+            "cn": "掌握移动应用开发",
+            "en": "Master mobile app development"
+        },
+        {
+            "cn": "创建自己的功能性移动应用",
+            "en": "Create your own functional mobile app"
+        },
+        {
+            "cn": "培养创业思维",
+            "en": "Develop entrepreneurial thinking"
+        }
+    ],
+    "course_outcomes_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
+    "course_outcome_cases": {
+        "cn": "[待定]",
+        "en": "[TBA]"
+    },
+    "modules": [
+        [
+            {
+                "id": "1-1",
+                "cn": "音效板",
+                "en": "Soundboard"
+            },
+            {
+                "id": "1-2",
+                "cn": "魔法 8 号球",
+                "en": "Magic 8 Ball"
+            },
+            {
+                "id": "1-3",
+                "cn": "表情包制作器",
+                "en": "Meme Maker"
+            },
+            {
+                "id": "1-4",
+                "cn": "图像识别器",
+                "en": "Image Recognizer"
+            },
+            {
+                "id": "1-5",
+                "cn": "BMI 计算器",
+                "en": "BMI Calculator"
+            },
+            {
+                "id": "1-6",
+                "cn": "文字转语音",
+                "en": "Text-to-Speech"
+            },
+            {
+                "id": "1-7",
+                "cn": "每秒点击次数",
+                "en": "Clicks Per Second"
+            },
+            {
+                "id": "1-8",
+                "cn": "数学计算器",
+                "en": "Math Calculator"
+            },
+            {
+                "id": "1-9",
+                "cn": "点击饼干游戏",
+                "en": "Cookie Clicker"
+            },
+            {
+                "id": "1-10",
+                "cn": "消息应用",
+                "en": "Messaging App"
+            }
+        ],
+        [
+            {
+                "id": "2-1",
+                "cn": "秒表",
+                "en": "Stopwatch"
+            },
+            {
+                "id": "2-2",
+                "cn": "Minecraft 药水",
+                "en": "Minecraft Potions"
+            },
+            {
+                "id": "2-3",
+                "cn": "测验应用",
+                "en": "Quiz App"
+            },
+            {
+                "id": "2-4",
+                "cn": "计时器应用",
+                "en": "Timer App"
+            },
+            {
+                "id": "2-5",
+                "cn": "Minecraft 附魔",
+                "en": "Minecraft Enchantments"
+            },
+            {
+                "id": "2-6",
+                "cn": "最终项目",
+                "en": "Final Project"
+            }
+        ]
+    ]
+}

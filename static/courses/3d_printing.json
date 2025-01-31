@@ -1,0 +1,170 @@
+{
+    "course_level": "l1",
+    "course_number": "13",
+    "course_name": {
+        "cn": "3D 打印创造者：从概念到产品实现",
+        "en": "3D Printing Creators: From Concept to Product Reality"
+    },
+    "short_description": {
+        "cn": "学习 3D 建模和打印技术，设计并展示自己的产品原型。",
+        "en": "Learn 3D modeling and printing technologies, design, and showcase your own product prototype."
+    },
+    "course_content": [
+        {
+            "cn": "掌握 TinkerCAD 进行 3D 设计",
+            "en": "Master 3D design using TinkerCAD"
+        },
+        {
+            "cn": "学习创业思维并开发产品原型",
+            "en": "Create a startup product prototype"
+        }
+    ],
+    "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
+    "course_outcomes": [
+        {
+            "cn": "熟练使用 TinkerCAD 进行 3D 建模",
+            "en": "Become proficient in 3D modeling"
+        },
+        {
+            "cn": "创建并优化 3D 打印设计",
+            "en": "Create and refine 3D printable designs"
+        },
+        {
+            "cn": "制定创业计划并展示产品",
+            "en": "Develop a business plan and present a product"
+        }
+    ],
+    "course_outcomes_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
+    "course_outcome_cases": {
+        "cn": "[待定]",
+        "en": "[TBA]"
+    },
+    "modules": [
+        [
+            {
+                "id": "1-1",
+                "cn": "放置对象",
+                "en": "Place It"
+            },
+            {
+                "id": "1-2",
+                "cn": "查看对象",
+                "en": "View It"
+            },
+            {
+                "id": "1-3",
+                "cn": "移动对象",
+                "en": "Move It"
+            },
+            {
+                "id": "1-4",
+                "cn": "旋转对象",
+                "en": "Rotate It"
+            },
+            {
+                "id": "1-5",
+                "cn": "调整大小",
+                "en": "Size It"
+            },
+            {
+                "id": "1-6",
+                "cn": "组合对象",
+                "en": "Group It"
+            },
+            {
+                "id": "1-7",
+                "cn": "复制对象",
+                "en": "Copy It"
+            },
+            {
+                "id": "1-8",
+                "cn": "重复对象",
+                "en": "Duplicate It"
+            },
+            {
+                "id": "1-9",
+                "cn": "隐藏对象",
+                "en": "Hide It"
+            },
+            {
+                "id": "1-10",
+                "cn": "对齐对象",
+                "en": "Align It"
+            },
+            {
+                "id": "1-11",
+                "cn": "创建孔",
+                "en": "Creating Holes"
+            },
+            {
+                "id": "1-12",
+                "cn": "摄像机控制",
+                "en": "Camera Controls"
+            },
+            {
+                "id": "1-13",
+                "cn": "学习 TinkerCAD",
+                "en": "Let’s Learn TinkerCAD!"
+            }
+        ],
+        [
+            {
+                "id": "2-1",
+                "cn": "制作戒指",
+                "en": "Making Rings"
+            },
+            {
+                "id": "2-2",
+                "cn": "制作按钮",
+                "en": "Making Buttons"
+            },
+            {
+                "id": "2-3",
+                "cn": "建造房屋",
+                "en": "Building a House"
+            },
+            {
+                "id": "2-4",
+                "cn": "船只与汽车",
+                "en": "Boats and Cars"
+            },
+            {
+                "id": "2-5",
+                "cn": "使用文本",
+                "en": "Using Text"
+            },
+            {
+                "id": "2-6",
+                "cn": "制作玩具",
+                "en": "Making Toys"
+            }
+        ],
+        [
+            {
+                "id": "3-1",
+                "cn": "什么是创业？",
+                "en": "What is Entrepreneurship?"
+            },
+            {
+                "id": "3-2",
+                "cn": "构思商业点子",
+                "en": "Formulating Business Ideas"
+            },
+            {
+                "id": "3-3",
+                "cn": "建模产品原型",
+                "en": "Modeling Prototype"
+            },
+            {
+                "id": "3-4",
+                "cn": "制作商业演示文稿",
+                "en": "Pitch Deck"
+            },
+            {
+                "id": "3-5",
+                "cn": "最终产品展示",
+                "en": "Final Presentation"
+            }
+        ]
+    ]
+}

@@ -19,7 +19,7 @@
             "en": "Learn block programming"
         }
     ],
-    "course_content_photo": "https://codingmind.com/img/my/minecode/minecode3.jpg",
+    "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
     "course_outcomes": [
         {
             "cn": "培养计算思维",
@@ -27,14 +27,14 @@
         },
         {
             "cn": "掌握基本编程概念",
-            "en": "Understand fundamental programming concepts"
+            "en": "Understand programming concepts"
         },
         {
             "cn": "设计机器人来解决问题",
             "en": "Design robots to solve problems"
         }
     ],
-    "course_outcomes_photo": "https://codingmind.com/img/my/minecode/minecode2.jpg",
+    "course_outcomes_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
     "course_outcome_cases": {
         "cn": "[待定]",
         "en": "[TBA]"
