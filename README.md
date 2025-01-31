@@ -4,7 +4,7 @@ This repository serves as a simple web app that allows Coding Mind personnel to 
 
 ## Grabbing a Course Flyer
 
-Before starting, check if the JSON information for that course exists in the repository under `static/courses`. If it doesn't, refer to **Making a Course Flyer**.
+Before starting, check if the JSON information for that course exists in the repository under `static/courses`. If it doesn't, refer to **Adding a Course Flyer**.
 
 First, note the following parameters.
 
@@ -191,3 +191,18 @@ The JSON follows the following format. We provide an example here that we recomm
     ]
 }
 ```
+
+## Testing Locally
+
+To test locally, perform the following:
+
+1. Have a local version of Python installed on your machine. **None of this repository uses Python**, however Python allows an easy access to a command to run a server. A server is required in order to properly load certain components such as images and CSS. If you have another method of running an easy web server, you can avoid installing Python altogether.
+2. In a terminal, change directory to the root of the cloned repository.
+3. Run the terminal command `python -m http.server`.
+4. Visit the following based on what you want to view:
+
+```
+http://localhost:8000/index.html?courseId={COURSE ID}&campus={CAMPUS}&lang={LANGUAGE}
+```
+
+5. To see changes, use **Ctrl + R** to reload instead of a "standard" page reload, as the CSS cache must be reloaded when viewing it locally.
