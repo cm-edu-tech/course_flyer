@@ -28,7 +28,7 @@
                         el.style.transform = `translateY(-${lineHeight * 0.3}px)`;
                     }
                     else if (el.classList.contains("syllabus-header")) {
-                        el.style.transform = `translateY(-${lineHeight * 0.4}px)`;
+                        el.style.transform = `translateY(-${lineHeight * 0.35}px)`;
                     }
                     else {
                         el.style.transform = `translateY(-${lineHeight * 0.5}px)`;
@@ -214,7 +214,7 @@
                 document.querySelector(".flexible_base").innerText = content.flexible[lang];
                 document.querySelector(".cancel_base").innerText = content.cancel_anytime[lang];
                 
-                document.querySelector(".campus_name").innerText = content.campuses[campus].name;
+                document.querySelector(".campus_name").innerText = content.campuses[campus].name[lang];
                 document.querySelector(".campus_address").innerText = content.campuses[campus].address;
                 document.querySelector(".campus_phone_number").innerText = content.campuses[campus].phone_number;
                 document.querySelector(".campus_website").innerText = content.campuses[campus].website;
@@ -233,12 +233,6 @@
 
     <body class="web-page">
         <div class="fixed top-4 right-4 flex gap-4 z-50">
-            <button onclick="captureAndDownload('cn')" class="download-btn hidden">
-                <p>下载中文版</p>
-            </button>
-            <button onclick="captureAndDownload('en')" class="download-btn hidden">
-                <p>Download English</p>
-            </button>
             <button onclick="captureAndDownload('first_page')" class="download-btn">
                 <p>Download First Page</p>
             </button>
@@ -251,7 +245,7 @@
             <div class="flex flex-col gap-16 first_page page">
                 <div class="flex gap-5">
                     <h1 class="course-level"></h1>
-                    <div class="w-full flex flex-col justify-between">
+                    <div class="w-full flex flex-col gap-10">
                         <div class="flex justify-between">
                             <h1 class="course-number"></h1>
                             <img class="logo" src="static/cm logo white.png" />
@@ -321,7 +315,7 @@
                 <hr class="divider">
         
                 <div class="flex flex-row justify-between">
-                    <div class="w-full">
+                    <div class="w-full campus-info">
                         <h3 class="campus_name"></h3>
                         <ul>
                             <li class="campus_address"></li>
@@ -330,7 +324,7 @@
                         </ul>
                     </div>
         
-                    <div class="flex flex-row justify-end">
+                    <div class="flex flex-row justify-end scan-area">
                         <p class="scan_for_trial mr-4"></p>
                         <img class="qr-code"/>
                     </div>
@@ -373,18 +367,19 @@
         }
 
         @font-face {
-            font-family: "AlibabaPuHuiTi";
-            src: url("static/AlibabaPuHuiTi-3-55-RegularL3.otf") format("opentype");
+            font-family: "Alibaba";
+            src: url("static/Alibaba PuHuiTi 2.0 45 Light.otf") format("opentype")
         }
 
         .page {
-            padding: 7rem;
+            padding: 8rem;
         }
         body {
             font-family: "Outfit", serif;
         }
         p {
             font-size: 30px;
+            font-family: "Alibaba", serif;
         }
         h3 {
             font-size: 30px;
@@ -392,9 +387,10 @@
         }        
         ul li {
             position: relative;
-            padding-left: 20px; /* Adjust this if needed */
-            font-weight: 400;
+            padding-left: 50px; /* Adjust this if needed */
+            line-height: 50px;
             font-size: 30px;
+            font-family: "Alibaba", serif;
         }
         ul li::before {
             content: "\2022"; /* Replace this with the desired bullet character. */
@@ -406,9 +402,9 @@
             height: 75px;
         }
         .course-level {
-            font-size: 400px;
+            font-size: 450px;
             font-weight: 800;
-            line-height: 300px;
+            line-height: 325px;
             color: white;
         }
         .course-number {
@@ -418,10 +414,12 @@
             color: white;
         }
         .class-name {
-            font-size: 50px;
+            font-size: 60px;
             font-weight: 500;
-            line-height: 60px;
+            line-height: 70px;
             letter-spacing: 2px;
+            /* Disable kerning to avoid weridly no space between first and second letter */
+            font-feature-settings: "kern" 0;
             font-family: "DouYu", sans-serif;
         }
         .divider {
@@ -429,14 +427,14 @@
             border-top: 7px solid;
         }
         .course-content {
-            height: 550px;
+            height: 600px;
         }
         .course-outcome {
             height: 350px;
         }
         .image-col {
             position: relative;
-            width: 45%;
+            width: 40%;
             overflow: hidden;
             border-top-left-radius: 75px;
             border-top-right-radius: 75px;
@@ -444,26 +442,19 @@
         }
 
         .image-col img {
-            /* Absolutely position the <img> so it can "overflow" and be clipped */
             position: absolute;
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
             
-            /* Force the image to cover in both dimensions without distorting aspect ratio */
-            width: auto;
-            height: auto;
+            height: 100%;
+            width: auto; /* Maintain aspect ratio */
             
-            /* Ensure the container is fully covered (no empty space),
-                so if the container is wider or taller than the image’s aspect ratio,
-                the image will grow beyond 100% in at least one dimension. */
-            min-width: 100%;
-            min-height: 100%;
             max-width: none;
             max-height: none;
         }
         .info-col {
-            width: 55%;
+            width: 60%;
         }
         .tiny-bubble {
             width: 35px;
@@ -487,11 +478,24 @@
             font-feature-settings: "kern" 0;
             font-family: "DouYu", sans-serif;
         }
+        .campus-info {
+            width: 30%;
+        }
+        .campus-info li {
+            position: relative;
+            padding-left: 50px; /* Adjust this if needed */
+            line-height: 50px;
+            font-size: 30px;
+            font-weight: 300;
+            font-family: "Outfit", serif;
+        }
+        .scan-area {
+            width: 40%;
+        }
         .qr-code {
             height: 225px;
         }
         .scan_for_trial {
-            width: 20%;
             font-family: "DouYu", sans-serif;
         }
         .tagline {

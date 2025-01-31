@@ -49,28 +49,40 @@
     },
     "campuses": {
         "irvine": {
-            "name": "Irvine校区",
+            "name": {
+                "cn": "Irvine校区",
+                "en": "Irvine"
+            },
             "address": "920 Roosevelt #200 Irvine, CA",
             "phone_number": "(949) 236-7896",
             "website": "www.codingmind.com",
             "qr": "qr_code.png"
         },
         "diamond_bar": {
-            "name": "Diamond Bar校区",
+            "name": {
+                "cn": "Diamond Bar校区",
+                "en": "Diamond Bar"
+            },
             "address": "21308 Pathfinder Rd, Unit 206, Diamond Bar, CA 91765",
             "phone_number": "(562) 846-2887",
             "website": "www.codingmind.com",
             "qr": "qr_db.png"
         },
         "seattle": {
-            "name": "Seattle校区",
+            "name": {
+                "cn": "Seattle校区",
+                "en": "Seattle"
+            },
             "address": "4006 148th Ave NE, Redmond, WA 98052",
             "phone_number": "(949) 236-7896",
             "website": "www.codingmind.com",
             "qr": "qr_seattle.png"
         },
         "arcadia": {
-            "name": "Arcadia校区",
+            "name": {
+                "cn": "Arcadia校区",
+                "en": "Arcadia"
+            },
             "address": "1010 S Baldwin Ave #202, Arcadia, CA 91007",
             "phone_number": "(949) 236-7896",
             "website": "www.codingmind.com",
