@@ -35,14 +35,24 @@
         "cn": "灵活上课模式",
         "en": "Flexible Class Mode"
     },
-    "scan_for_trial": {
-        "cn": "扫描二维码",
-        "en": "Scan for free trial class"
-    },
-    "scan_for_trial_2": {
-        "cn": "开启免费试课",
-        "en": "Scan for free trial class"
-    },
+    "scan_for_trial": [
+        {
+            "cn": "扫描",
+            "en": "Scan for"
+        },
+        {
+            "cn": "二维码",
+            "en": "the QR Code"
+        },
+        {
+            "cn": "开启",
+            "en": "For a"
+        },
+        {
+            "cn": "免费试课",
+            "en": "free trial class"
+        }
+    ],
     "syllabus": {
         "cn": "教学模块",
         "en": "Teaching Modules"

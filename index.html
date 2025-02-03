@@ -207,8 +207,14 @@
                 document.querySelector(".course_content_base").innerText = content.course_content[lang];
                 document.querySelector(".course_outcomes_base").innerText = content.course_outcomes[lang];
                 document.querySelector(".course_outcome_cases_base").innerText = content.course_outcome_cases[lang];
-                document.querySelector(".scan_for_trial").innerText = content.scan_for_trial[lang];
-                
+                let scanTrialDiv = document.querySelector(".scan_for_trial")
+                for (let i = 0; i < content.scan_for_trial.length; i++) {
+                    const lineElement = document.createElement("p");
+                    lineElement.innerText = content.scan_for_trial[i][lang];
+                    lineElement.classList.add("line")
+                    scanTrialDiv.appendChild(lineElement);
+                }
+
                 document.querySelector(".competitions_base").innerText = content.competitions[lang];
                 document.querySelector(".projects_base").innerText = content.projects[lang];
                 document.querySelector(".flexible_base").innerText = content.ai_driven[lang];
@@ -325,7 +331,7 @@
                     </div>
         
                     <div class="flex flex-row justify-end scan-area">
-                        <p class="scan_for_trial mr-4"></p>
+                        <div class="scan_for_trial mr-16"></div>
                         <img class="qr-code"/>
                     </div>
                 </div>
@@ -489,13 +495,15 @@
             font-family: "Outfit", serif;
         }
         .scan-area {
-            width: 40%;
+            width: 50%;
         }
         .qr-code {
             height: 225px;
         }
         .scan_for_trial {
-            font-family: "DouYu", sans-serif;
+            .line {
+                font-family: "DouYu", sans-serif;
+            }
         }
         .tagline {
             font-family: "DouYu", sans-serif;
