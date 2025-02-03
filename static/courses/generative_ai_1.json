@@ -6,13 +6,13 @@
         "en": "Generative AI 1: Prompt Engineering"
     },
     "short_description": {
-        "cn": "学习生成式 AI 提示工程，提高 AI 交互、生产力和编程辅助能力。",
+        "cn": "学习生成式人工智能提示工程，提升与AI的交互效果，增强生产力和编程辅助能力，培养创新思维和技术应用能力，助力未来智能科技发展。",
         "en": "Learn generative AI prompt engineering to enhance AI interaction, productivity, and programming assistance."
     },
     "course_content": [
         {
             "cn": "理解大语言模型的特性",
-            "en": "Understand large language model features"
+            "en": "Understand large language models"
         },
         {
             "cn": "学习提示工程模式",
