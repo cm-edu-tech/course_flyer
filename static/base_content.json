@@ -27,16 +27,20 @@
         "cn": "为项目打基础",
         "en": "Project-Based Learning"
     },
+    "ai_driven": {
+        "cn": "AI实践与应用",
+        "en": "AI-Driven Applications"
+    },
     "flexible": {
-        "cn": "上课模式灵活",
+        "cn": "灵活上课模式",
         "en": "Flexible Class Mode"
     },
-    "cancel_anytime": {
-        "cn": "无理由退课",
-        "en": "Cancel Anytime"
-    },
     "scan_for_trial": {
-        "cn": "扫码免费试课",
+        "cn": "扫描二维码",
+        "en": "Scan for free trial class"
+    },
+    "scan_for_trial_2": {
+        "cn": "开启免费试课",
         "en": "Scan for free trial class"
     },
     "syllabus": {
