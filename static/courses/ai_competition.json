@@ -36,8 +36,8 @@
     ],
     "course_outcomes_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
     "course_outcome_cases": {
-        "cn": "[待定]",
-        "en": "[TBA]"
+        "cn": "在 AI 科学展项目课程中，Cassie 开发了一款智能导航应用，专为视障人士提供出行辅助。该应用可实时识别周围物体，并通过语音提醒引导用户避开障碍物，提升独立性。凭此项目，Cassie 获得 Diamond Challenge 国际大赛冠军和 $11,000 奖金，并成功被麻省理工学院（MIT）录取，展现了她在 AI 技术与社会影响力方面的卓越能力。",
+        "en": "In the AI for Science Fair Project course, Cassie developed an AI-powered navigation app for visually impaired individuals, offering real-time object recognition and voice guidance. This project won her the Diamond Challenge International Championship, an $11,000 prize, and admission to MIT."
     },
     "modules": [
         [

@@ -36,8 +36,8 @@
     ],
     "course_outcomes_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
     "course_outcome_cases": {
-        "cn": "[待定]",
-        "en": "[TBA]"
+        "cn": "在Microbit编程课程中，Amy设计并开发了一款多模式电子竞答设备。该设备能够实时检测学生的抢答情况，并精准识别最先按下按钮的学生，让课堂问答更加高效与互动。凭借其创新设计与稳定性能，这一作品被她所在小学的教师正式应用于课堂教学，极大地提升了学生的参与度和课堂互动体验。",
+        "en": "In the Microbit Programming course, Amy developed an electronic quiz device that detects real-time responses and identifies the first to answer. Adopted by her school, it enhances classroom engagement and participation."
     },
     "modules": [
         [
