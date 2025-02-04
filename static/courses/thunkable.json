@@ -25,7 +25,7 @@
             "en": "Learn block-based programming"
         }
     ],
-    "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
+    "course_content_photo": "/static/course_images/thunkable/mobile-learn-5.jpg",
     "course_outcomes": [
         {
             "cn": "掌握移动应用开发的核心技术与实践",
@@ -40,7 +40,7 @@
             "en": "Develop entrepreneurial thinking"
         }
     ],
-    "course_outcomes_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
+    "course_outcomes_photo": "/static/course_images/thunkable/mobile-learn-0.png",
     "course_outcome_cases": {
         "cn": "在移动应用开发课程中，Jevon 运用编程技能为高中开发了一款校园助手应用，集成课程表、校历、成绩查询和校园活动信息，方便师生日常使用。该应用在 Apple Store 上获得超 10,000 次下载，广受好评。凭借这一项目和技术能力，Jevon 成功进入斯坦福大学深造。",
         "en": "In the App Thunkable course, Jevon developed a campus assistant app for his high school, integrating schedules, calendars, grades, and event info. With over 10,000 downloads on the Apple Store, it gained widespread recognition, helping Jevon earn admission to Stanford University."
