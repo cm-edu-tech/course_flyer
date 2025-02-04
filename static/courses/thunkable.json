@@ -2,8 +2,8 @@
     "course_level": "l2",
     "course_number": "03",
     "course_name": {
-        "cn": "使用 Thunkable 进行应用程序开发",
-        "en": "App Development with Thunkable"
+        "cn": "使用 Thunkable 进行应用程序开发：：从创意到功能实现",
+        "en": "App Development with Thunkable: Turning Ideas into Functional Apps"
     },
     "short_description": {
         "cn": "应用开发与Thunkable课程使用Thunkable开发平台，帮助学生快速设计移动应用功能，培养逻辑思维和创新能力，提升编程技能与问题解决能力，助力未来科技发展。",
@@ -11,7 +11,7 @@
     },
     "course_content": [
         {
-            "cn": "创建自己的移动应用",
+            "cn": "创建属于自己的移动应用",
             "en": "Create your own mobile apps"
         },
         {
