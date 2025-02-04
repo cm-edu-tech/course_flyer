@@ -2,7 +2,7 @@
     "course_level": "l1",
     "course_number": "13",
     "course_name": {
-        "cn": "3D 打印创造者：从概念到产品实现",
+        "cn": "3D 打印创新者：从概念到产品实现",
         "en": "3D Printing Creators: From Concept to Product Reality"
     },
     "short_description": {
@@ -11,7 +11,7 @@
     },
     "course_content": [
         {
-            "cn": "掌握 TinkerCAD 进行 3D 设计",
+            "cn": "学习掌握 TinkerCAD 进行 3D 设计",
             "en": "Master 3D design using TinkerCAD"
         },
         {
@@ -93,7 +93,7 @@
             },
             {
                 "id": "1-11",
-                "cn": "创建孔",
+                "cn": "创建孔洞",
                 "en": "Creating Holes"
             },
             {
