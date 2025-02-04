@@ -25,7 +25,7 @@
             "en": "Learn business planning, market analysis, and funding strategies"
         }
     ],
-    "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
+    "course_content_photo": "/static/course_images/entrepreneur/e1.jpg",
     "course_outcomes": [
         {
             "cn": "掌握创业流程并制定完整商业计划",
@@ -40,7 +40,7 @@
             "en": "Deliver a formal investor pitch"
         }
     ],
-    "course_outcomes_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
+    "course_outcomes_photo": "/static/course_images/entrepreneur/mobile-learn-5.jpg",
     "course_outcome_cases": {
         "cn": "在创业项目课程中，Eiffel 成功为家族烘焙店开发了一款会员奖励应用，顾客可累积积分兑换免费烘焙食品。该应用已在 Apple Store 和 Google Play 上线，拥有超 2,000 名活跃用户，提升了客户忠诚度和经营效率。凭此项目，Eiffel 不仅助力家族企业数字化转型，还成功被康奈尔大学录取，展现了其技术与商业创新能力。",
         "en": "In the Startup Passion Project course, Eiffel developed a loyalty app for his family’s bakery, helping boost customer retention with over 2,000 active users. This success secured his admission to Cornell University, highlighting his tech and business skills."
