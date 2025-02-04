@@ -25,7 +25,7 @@
             "en": "Create a startup product prototype"
         }
     ],
-    "course_content_photo": "/static/course_images/3d_printing/3dp1.jpg",
+    "course_content_photo": "./static/course_images/3d_printing/3dp1.jpg",
     "course_outcomes": [
         {
             "cn": "熟练使用 TinkerCAD 进行 3D 建模与设计",
@@ -40,7 +40,7 @@
             "en": "Develop a business plan and present a product"
         }
     ],
-    "course_outcomes_photo": "/static/course_images/3d_printing/tinkercad.jpg",
+    "course_outcomes_photo": "./static/course_images/3d_printing/tinkercad.jpg",
     "course_outcome_cases": {
         "cn": "在 3D 打印课程中，Jerry 结合 3D 打印、编程和机械设计，开发了一款智能宠物喂食设备该设备配备摄像头识别宠物进食情况，通过机械系统自动精准投喂装置的外壳及关键部件均由 3D 打印制成，展现了工程整合能力凭借这一创新产品，Jerry 在多项商业与创业竞赛中获奖，体现了他在科技创新和产品开发领域的卓越潜力",
         "en": "In the 3D Printing course, Jerry combined 3D printing, programming, and mechanical design to create a smart pet feeder with a camera to monitor eating behavior and an automatic dispenser. The 3D-printed structure showcased his engineering skills, earning him multiple awards for his innovative product."

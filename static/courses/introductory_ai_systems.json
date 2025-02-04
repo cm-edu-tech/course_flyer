@@ -25,7 +25,7 @@
             "en": "Learn machine learning and computer vision"
         }
     ],
-    "course_content_photo": "/static/course_images/introductory_ai_systems/ai_blocks-1024x552.png",
+    "course_content_photo": "./static/course_images/introductory_ai_systems/ai_blocks-1024x552.png",
     "course_outcomes": [
         {
             "cn": "理解 AI 的基本概念及其实际应用",
@@ -40,7 +40,7 @@
             "en": "Gain knowledge of machine learning"
         }
     ],
-    "course_outcomes_photo": "/static/course_images/introductory_ai_systems/scratch-2.png",
+    "course_outcomes_photo": "./static/course_images/introductory_ai_systems/scratch-2.png",
     "course_outcome_cases": {
         "cn": "在我们的 **AI 系统入门课程** 中，Adam 和 Ballack 运用机器学习技术开发了面向儿童的 **姿势检测游戏**。该游戏通过摄像头捕捉动作，利用算法分析姿态，鼓励孩子模仿特定动作完成关卡，提升协调性和专注力，并提供实时反馈，展示了他们在 AI 技术和教育创新方面的能力。",
         "en": "In our Introductory AI Systems course, Adam and Ballack used their knowledge of several machine learning techniques in order to develop fun AI-powered applications for kids, such as a pose detecting game and many more."

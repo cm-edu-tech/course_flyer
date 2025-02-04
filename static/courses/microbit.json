@@ -25,7 +25,7 @@
             "en": "Explore sensors and wireless communication"
         }
     ],
-    "course_content_photo": "/static/course_images/microbit/bg-2.jpg",
+    "course_content_photo": "./static/course_images/microbit/bg-2.jpg",
     "course_outcomes": [
         {
             "cn": "了解 micro:bit 控制板的功能与应用",
@@ -40,7 +40,7 @@
             "en": "Complete a personal creative project"
         }
     ],
-    "course_outcomes_photo": "/static/course_images/microbit/bg-3.jpg",
+    "course_outcomes_photo": "./static/course_images/microbit/bg-3.jpg",
     "course_outcome_cases": {
         "cn": "在Microbit编程课程中，Amy设计并开发了一款多模式电子竞答设备。该设备能够实时检测学生的抢答情况，并精准识别最先按下按钮的学生，让课堂问答更加高效与互动。凭借其创新设计与稳定性能，这一作品被她所在小学的教师正式应用于课堂教学，极大地提升了学生的参与度和课堂互动体验。",
         "en": "In the Microbit Programming course, Amy developed an electronic quiz device that detects real-time responses and identifies the first to answer. Adopted by her school, it enhances classroom engagement and participation."

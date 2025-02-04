@@ -25,7 +25,7 @@
             "en": "Learn loops, conditionals, and functions"
         }
     ],
-    "course_content_photo": "/static/course_images/python_1/python-learn-1.jpg",
+    "course_content_photo": "./static/course_images/python_1/python-learn-1.jpg",
     "course_outcomes": [
         {
             "cn": "能够编写简单的 Python 程序并进行调试",
@@ -40,7 +40,7 @@
             "en": "Complete a final Python project"
         }
     ],
-    "course_outcomes_photo": "/static/course_images/python_1/python-adv-1.png",
+    "course_outcomes_photo": "./static/course_images/python_1/python-adv-1.png",
     "course_outcome_cases": {
         "cn": "在Python 编程课程中，Thomas 开发了一款自动化高频交易程序，利用编程算法实时分析市场数据并执行交易策略，实现高速买卖操作。凭借这一技术，Thomas 在仅仅是初中生的年纪就能够进行专业级别的股票交易，并成功 通过程序化交易获利，展现了卓越的编程能力与金融科技思维。",
         "en": "In the Python Programming course, Thomas developed a high-frequency trading program that analyzes market data and executes trades in real-time. While still in middle school, he used this technology for professional-level stock trading, generating revenue and showcasing his programming skills."

@@ -25,7 +25,7 @@
             "en": "Learn block programming"
         }
     ],
-    "course_content_photo": "/static/course_images/minecraft/minecraft_education_edition.jpg",
+    "course_content_photo": "./static/course_images/minecraft/minecraft_education_edition.jpg",
     "course_outcomes": [
         {
             "cn": "培养计算思维并提升问题解决能力",
@@ -40,7 +40,7 @@
             "en": "Design robots to solve problems"
         }
     ],
-    "course_outcomes_photo": "/static/course_images/minecraft/minecode2.jpg",
+    "course_outcomes_photo": "./static/course_images/minecraft/minecode2.jpg",
     "course_outcome_cases": {
         "cn": "在 Minecraft Makecode 课程中，Leo 运用编程技能，在 Minecraft 中打造了一款创新的中文学习游戏。玩家破坏不同方块时会看到相应汉字，并在游戏中遇到趣味测验，通过输入汉字作答。这种互动式学习方式让中文学习既有趣又具挑战性。凭借这一创意作品，乐乐在 GameGala 竞赛中脱颖而出，荣获大奖。",
         "en": "In the Minecraft Makecode course, Leo created a Chinese learning game where players see characters when breaking blocks and answer quizzes by typing them. This engaging approach won him a prestigious award at the GameGala competition."
