@@ -2,8 +2,8 @@
     "course_level": "l1",
     "course_number": "06",
     "course_name": {
-        "cn": "人工智能入门系统",
-        "en": "Introductory AI Systems"
+        "cn": "人工智能入门指南：理解与构建智能系统的基础",
+        "en": "Introductory Guide to AI: Foundations for Understanding and Building Intelligent Systems"
     },
     "short_description": {
         "cn": "通过Scratch探索人工智能，学习机器学习、计算机视觉和自然语言处理，培养编程思维与创新能力，助力未来智能科技的发展。",
