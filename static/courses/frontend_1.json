@@ -2,8 +2,8 @@
     "course_level": "l4",
     "course_number": "08",
     "course_name": {
-        "cn": "前端开发 1：HTML 与 CSS",
-        "en": "Frontend Development 1: HTML and CSS"
+        "cn": "前端开发基础 1：HTML 与 CSS —— 构建现代网页的核心技术",
+        "en": "Frontend Development 1: HTML and CSS – Core Technologies for Building Modern Web Pages"
     },
     "short_description": {
         "cn": "学习HTML和CSS，掌握网页设计和响应式布局，制作动态网页，提升前端开发能力，培养创造力与解决问题的思维，助力未来科技探索。",
@@ -15,14 +15,14 @@
             "en": "Learn HTML and CSS fundamentals"
         },
         {
-            "cn": "掌握布局、动画和媒体查询",
+            "cn": "掌握网页设计布局、动画和媒体查询",
             "en": "Master layouts, animations, and media queries"
         }
     ],
     "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
     "course_outcomes": [
         {
-            "cn": "能够编写 HTML 和 CSS 代码",
+            "cn": "掌握编写 HTML 和 CSS 代码的能力",
             "en": "Be able to write HTML and CSS code"
         },
         {
@@ -30,7 +30,7 @@
             "en": "Design responsive websites"
         },
         {
-            "cn": "创建个人网站作为最终项目",
+            "cn": "创建个人网站作为最终课程项目",
             "en": "Create a personal website as a final project"
         }
     ],
@@ -43,7 +43,7 @@
         [
             {
                 "id": "1-1",
-                "cn": "基本 HTML 标签与 CSS 样式",
+                "cn": "基础 HTML 标签与 CSS 样式",
                 "en": "Basic HTML Tags and CSS Styles"
             },
             {
