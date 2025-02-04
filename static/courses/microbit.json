@@ -2,8 +2,8 @@
     "course_level": "l1",
     "course_number": "05",
     "course_name": {
-        "cn": "Microsoft micro:bit 电气工程",
-        "en": "Electrical Engineering with Microsoft micro:bit"
+        "cn": "Microsoft micro:bit 电气工程实践：动手探索电路与编程基础",
+        "en": "Electrical Engineering with Microsoft micro:bit: Exploring Circuits and Programming Basics"
     },
     "short_description": {
         "cn": "学习编程基础和硬件控制，使用微软的micro:bit，这是一款小巧但功能强大的口袋电脑，培养动手能力和逻辑思维，助力未来科技创新与探索。",
@@ -43,7 +43,7 @@
         [
             {
                 "id": "1-1",
-                "cn": "设置、Forever 与 On Start、LED 灯和 Micro Chat 无线电",
+                "cn": "设置、Forever 与 On Start永久循环、LED 灯和 Micro Chat 无线电",
                 "en": "Setup, Forever vs On Start, LED Lights, and Micro Chat Radio"
             },
             {
