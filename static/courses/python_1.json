@@ -2,8 +2,8 @@
     "course_level": "l3",
     "course_number": "07",
     "course_name": {
-        "cn": "Python 1：入门编程",
-        "en": "Python 1: Introductory Programming"
+        "cn": "Python 1：编程入门与实践，掌握Python基础语法与编程思维",
+        "en": "Python 1: Introductory Programming and Practice – Mastering Basic Syntax and Programming Logic"
     },
     "short_description": {
         "cn": "通过多个有趣的游戏和项目学习基础且简单的Python编程概念，培养逻辑思维和问题解决能力，激发编程兴趣，助力未来科技创新与探索。",
