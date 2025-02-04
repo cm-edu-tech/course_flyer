@@ -25,7 +25,7 @@
             "en": "Master layouts, animations, and media queries"
         }
     ],
-    "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
+    "course_content_photo": "/static/course_images/frontend_1/web3.jpg",
     "course_outcomes": [
         {
             "cn": "能够熟练编写 HTML 和 CSS 代码",
@@ -40,7 +40,7 @@
             "en": "Create a personal website as a final project"
         }
     ],
-    "course_outcomes_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
+    "course_outcomes_photo": "/static/course_images/frontend_1/web1.jpg",
     "course_outcome_cases": {
         "cn": "在 Web 开发 课程中，Zach 开发了一款 智能化在线平台，能够将传统课本转换为多媒体书籍。该 Web 应用可以 自动生成配套图像，并通过音频朗读文本，让阅读体验更加生动和互动化。凭借这一创新项目，Zach 在 Ignite CS 编程大赛中荣获一等奖，展现了卓越的 Web 开发能力与技术创新精神。",
         "en": "In the Web Development course, Zach created an online platform that turns textbooks into multimedia books with auto-generated images and audio. This project won him first prize in the Ignite CS Programming Competition, highlighting his web development skills and creativity."
