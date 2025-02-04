@@ -2,7 +2,7 @@
     "course_level": "l6",
     "course_number": "14",
     "course_name": {
-        "cn": "AI 创新者：打造未来科学竞赛项目",
+        "cn": "人工智能 AI 创新者：打造未来科学博览会项目",
         "en": "AI Innovators: Crafting Future Science Fair Projects"
     },
     "short_description": {
@@ -30,7 +30,7 @@
             "en": "Design an AI research experiment"
         },
         {
-            "cn": "完成科学竞赛级别的研究项目",
+            "cn": "完成科学博览会级别的研究项目",
             "en": "Complete a science fair-level research project"
         }
     ],
@@ -106,7 +106,7 @@
         [
             {
                 "id": "5-1",
-                "cn": "小组分工与研究问题确定",
+                "cn": "小组分工与决定研究问题方向",
                 "en": "Team Formation and Research Question Selection"
             },
             {
