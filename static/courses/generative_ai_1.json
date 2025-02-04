@@ -2,8 +2,14 @@
     "course_level": "l4",
     "course_number": "09",
     "course_name": {
-        "cn": "生成式 AI 1：提示工程 - 解锁人工智能创造力的关键技能",
-        "en": "Generative AI 1: Prompt Engineering – Unlocking the Key Skills for AI Creativity"
+        "line_1": {
+            "cn": "生成式 AI 1：",
+            "en": "Generative AI 1:"
+        },
+        "line_2": {
+            "cn": "提示工程",
+            "en": "Prompt Engineering"
+        }
     },
     "short_description": {
         "cn": "学习生成式人工智能提示工程，提升与AI的交互效果，增强生产力和编程辅助能力，培养创新思维和技术应用能力，助力未来智能科技发展。",
@@ -11,26 +17,26 @@
     },
     "course_content": [
         {
-            "cn": "理解大语言模型的特性",
+            "cn": "理解大语言模型的特性及其应用场景",
             "en": "Understand large language models"
         },
         {
-            "cn": "学习提示工程模式",
+            "cn": "学习提示工程模式及其优化方法",
             "en": "Learn prompt engineering patterns"
         }
     ],
     "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
     "course_outcomes": [
         {
-            "cn": "成为擅长使用生成式 AI 的强大用户",
+            "cn": "成为生成式 AI 的高级用户并熟练应用",
             "en": "Become a power user of generative AI"
         },
         {
-            "cn": "提升你的生产力",
+            "cn": "提升你的生产力并优化工作效率",
             "en": "Boost your productivity"
         },
         {
-            "cn": "使用 LLM 进行编程学习和调试",
+            "cn": "使用 LLM 进行编程学习、调试和优化",
             "en": "Use LLMs for programming learning and debugging"
         }
     ],

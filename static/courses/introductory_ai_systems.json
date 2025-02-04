@@ -2,8 +2,14 @@
     "course_level": "l1",
     "course_number": "06",
     "course_name": {
-        "cn": "人工智能入门指南：理解与构建智能系统的基础",
-        "en": "Introductory Guide to AI: Foundations for Understanding and Building Intelligent Systems"
+        "line_1": {
+            "cn": "人工智能 入门系统",
+            "en": "Introductory AI Systems"
+        },
+        "line_2": {
+            "cn": "",
+            "en": ""
+        }
     },
     "short_description": {
         "cn": "通过Scratch探索人工智能，学习机器学习、计算机视觉和自然语言处理，培养编程思维与创新能力，助力未来智能科技的发展。",
@@ -11,26 +17,26 @@
     },
     "course_content": [
         {
-            "cn": "使用 Scratch 进行 AI 编程",
+            "cn": "使用 Scratch 进行基础 AI 编程实践",
             "en": "AI programming with Scratch"
         },
         {
-            "cn": "学习机器学习与计算机视觉",
+            "cn": "学习机器学习与计算机视觉的基础概念与应用",
             "en": "Learn machine learning and computer vision"
         }
     ],
     "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
     "course_outcomes": [
         {
-            "cn": "理解 AI 的基本概念",
+            "cn": "理解 AI 的基本概念及其实际应用",
             "en": "Understand AI fundamentals"
         },
         {
-            "cn": "创建基于 AI 的交互项目",
+            "cn": "创建基于 AI 的交互式项目并进行展示",
             "en": "Create AI-powered interactive projects"
         },
         {
-            "cn": "掌握自然语言处理与计算机视觉",
+            "cn": "掌握自然语言处理与计算机视觉的核心技术",
             "en": "Gain knowledge of machine learning"
         }
     ],

@@ -2,8 +2,14 @@
     "course_level": "l2",
     "course_number": "03",
     "course_name": {
-        "cn": "使用 Thunkable 进行应用程序开发：：从创意到功能实现",
-        "en": "App Development with Thunkable: Turning Ideas into Functional Apps"
+        "line_1": {
+            "cn": "使用 Thunkable",
+            "en": "App Development"
+        },
+        "line_2": {
+            "cn": "进行应用程序开发",
+            "en": "with Thunkable"
+        }
     },
     "short_description": {
         "cn": "应用开发与Thunkable课程使用Thunkable开发平台，帮助学生快速设计移动应用功能，培养逻辑思维和创新能力，提升编程技能与问题解决能力，助力未来科技发展。",
@@ -11,26 +17,26 @@
     },
     "course_content": [
         {
-            "cn": "创建属于自己的移动应用",
+            "cn": "创建自己的移动应用并实现基本功能",
             "en": "Create your own mobile apps"
         },
         {
-            "cn": "学习积木编程",
+            "cn": "学习积木编程及其基本应用技巧",
             "en": "Learn block-based programming"
         }
     ],
     "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
     "course_outcomes": [
         {
-            "cn": "掌握移动应用开发",
+            "cn": "掌握移动应用开发的核心技术与实践",
             "en": "Master mobile app development"
         },
         {
-            "cn": "创建自己的功能性移动应用",
+            "cn": "创建自己的功能性移动应用并实现关键功能",
             "en": "Create your own functional mobile app"
         },
         {
-            "cn": "培养创业思维",
+            "cn": "培养创业思维并提升创新能力",
             "en": "Develop entrepreneurial thinking"
         }
     ],

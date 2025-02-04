@@ -2,41 +2,47 @@
     "course_level": "l1",
     "course_number": "13",
     "course_name": {
-        "cn": "3D 打印创新者指南：从创意构想到产品落地的全流程实践",
-        "en": "3D Printing Innovators' Guide: A Complete Journey from Creative Concept to Product Realization"
+        "line_1": {
+            "cn": "3D 打印创新者",
+            "en": "3D Printing Creators:"
+        },
+        "line_2": {
+            "cn": "从概念到产品实现",
+            "en": "Concept to Product"
+        }
     },
     "short_description": {
-        "cn": "学习3D建模和打印技术，掌握产品设计技能，制作并展示自己的产品原型，提升创新思维和动手能力，助力未来科技领域的发展。",
+        "cn": "学习3D建模和打印技术，掌握产品设计技能，制作并展示自己的产品原型，提升创新思维和动手能力，助力未来科技领域的发展",
         "en": "Learn 3D modeling and printing technologies, design, and showcase your own product prototype."
     },
     "course_content": [
         {
-            "cn": "学习掌握 TinkerCAD 进行 3D 设计",
-            "en": "Master 3D design using TinkerCAD"
+            "cn": "掌握 TinkerCAD 进行 3D 设计与建模基础知识",
+            "en": "Learn 3D design skills with TinkerCAD tools"
         },
         {
-            "cn": "学习创业思维并开发产品原型",
+            "cn": "学习创业思维并开发产品原型，探索创新",
             "en": "Create a startup product prototype"
         }
     ],
     "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
     "course_outcomes": [
         {
-            "cn": "熟练使用 TinkerCAD 进行 3D 建模",
+            "cn": "熟练使用 TinkerCAD 进行 3D 建模与设计",
             "en": "Become proficient in 3D modeling"
         },
         {
-            "cn": "创建并优化 3D 打印设计",
-            "en": "Create and refine 3D prints"
+            "cn": "创建并优化高质量的 3D 打印设计",
+            "en": "Design, create, and refine models"
         },
         {
-            "cn": "制定创业计划并展示产品",
+            "cn": "制定详细的创业计划并展示产品原型",
             "en": "Develop a business plan and present a product"
         }
     ],
     "course_outcomes_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
     "course_outcome_cases": {
-        "cn": "在 3D 打印课程中，Jerry 结合 3D 打印、编程和机械设计，开发了一款智能宠物喂食设备。该设备配备摄像头识别宠物进食情况，通过机械系统自动精准投喂。装置的外壳及关键部件均由 3D 打印制成，展现了工程整合能力。凭借这一创新产品，Jerry 在多项商业与创业竞赛中获奖，体现了他在科技创新和产品开发领域的卓越潜力。",
+        "cn": "在 3D 打印课程中，Jerry 结合 3D 打印、编程和机械设计，开发了一款智能宠物喂食设备该设备配备摄像头识别宠物进食情况，通过机械系统自动精准投喂装置的外壳及关键部件均由 3D 打印制成，展现了工程整合能力凭借这一创新产品，Jerry 在多项商业与创业竞赛中获奖，体现了他在科技创新和产品开发领域的卓越潜力",
         "en": "In the 3D Printing course, Jerry combined 3D printing, programming, and mechanical design to create a smart pet feeder with a camera to monitor eating behavior and an automatic dispenser. The 3D-printed structure showcased his engineering skills, earning him multiple awards for his innovative product."
     },
     "modules": [

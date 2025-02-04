@@ -2,8 +2,14 @@
     "course_level": "l1",
     "course_number": "01",
     "course_name": {
-        "cn": "乐高机器人编程与实践：探索 STEM 与创新思维",
-        "en": "LEGO Mindstorms Robotics Programming & Practice: Exploring STEM and Creative Innovation"
+        "line_1": {
+            "cn": "乐高机器人编程",
+            "en": "LEGO Mindstorms"
+        },
+        "line_2": {
+            "cn": "",
+            "en": "Robotics"
+        }
     },
     "short_description": {
         "cn": "LEGO Mindstorms机器人课程全面培养学生的STEM能力和创新思维，提升编程、工程设计及问题解决技巧，激发科技探索兴趣，助力未来成长与发展。",
@@ -11,26 +17,26 @@
     },
     "course_content": [
         {
-            "cn": "掌握机器人搭建技能",
+            "cn": "掌握机器人搭建与基础编程技能",
             "en": "Master robot building skills"
         },
         {
-            "cn": "学习积木编程",
+            "cn": "学习积木编程及其基本原理与应用",
             "en": "Learn block programming"
         }
     ],
     "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
     "course_outcomes": [
         {
-            "cn": "搭建各种机器人模型",
+            "cn": "搭建各种类型的机器人模型并进行调试",
             "en": "Build various robot models"
         },
         {
-            "cn": "编程机器人任务",
+            "cn": "编程机器人执行多种任务并优化性能",
             "en": "Programming robot tasks"
         },
         {
-            "cn": "设计机器人解决问题",
+            "cn": "设计机器人解决实际问题并提高效率",
             "en": "Design robots to solve problems"
         }
     ],

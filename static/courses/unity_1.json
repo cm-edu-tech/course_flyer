@@ -2,8 +2,14 @@
     "course_level": "l4",
     "course_number": "10",
     "course_name": {
-        "cn": "Unity 1：游戏开发入门，掌握游戏设计与编程基础",
-        "en": "Unity 1: Introduction to Game Development – Mastering Game Design and Programming Fundamentals"
+        "line_1": {
+            "cn": "Unity 1：游戏开发入门",
+            "en": "Unity 1: Intro "
+        },
+        "line_2": {
+            "cn": "进行应用程序开发",
+            "en": "to Game Development"
+        }
     },
     "short_description": {
         "cn": "学习Unity基础知识，掌握核心游戏开发概念，提升编程能力和逻辑思维，培养创造力与问题解决技巧，助力未来科技创新与游戏设计探索。",
@@ -11,26 +17,26 @@
     },
     "course_content": [
         {
-            "cn": "熟悉 Unity 引擎与编辑器",
+            "cn": "熟悉 Unity 引擎与编辑器的基础操作与功能",
             "en": "Get familiar with the Unity engine and editor"
         },
         {
-            "cn": "学习游戏对象、UI 和场景管理",
+            "cn": "学习游戏对象、UI 设计和场景管理的基本应用",
             "en": "Learn GameObjects, UI, and scene management"
         }
     ],
     "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
     "course_outcomes": [
         {
-            "cn": "能够在 Unity 中创建基础游戏",
+            "cn": "能够在 Unity 中创建并实现基础游戏",
             "en": "Be able to create basic games in Unity"
         },
         {
-            "cn": "掌握 Unity 组件、灯光和动画",
+            "cn": "掌握 Unity 组件、灯光和动画控制技巧",
             "en": "Understand Unity's framework"
         },
         {
-            "cn": "使用 GitHub 进行项目管理",
+            "cn": "使用 GitHub 进行版本控制和项目管理",
             "en": "Use GitHub for project management"
         }
     ],

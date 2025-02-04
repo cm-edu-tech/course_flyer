@@ -2,8 +2,14 @@
     "course_level": "l6",
     "course_number": "12",
     "course_name": {
-        "cn": "初创科技创业：青年企业家的旅程",
-        "en": "Tech Startups: Young Entrepreneur's Journey"
+        "line_1": {
+            "cn": "初创科技创业：",
+            "en": "Tech Startups: Young"
+        },
+        "line_2": {
+            "cn": "青年企业家的旅程",
+            "en": "Entrepreneurship"
+        }
     },
     "short_description": {
         "cn": "学习科技创业基础知识，培养商业技能，完成投资人路演展示，提升创新思维和沟通能力，助力未来创业成功。",
@@ -11,7 +17,7 @@
     },
     "course_content": [
         {
-            "cn": "了解初创企业的核心概念",
+            "cn": "了解初创企业的核心概念与运营模式",
             "en": "Understand core startup concepts"
         },
         {
@@ -22,15 +28,15 @@
     "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
     "course_outcomes": [
         {
-            "cn": "掌握创业流程并制定商业计划",
+            "cn": "掌握创业流程并制定完整商业计划",
             "en": "Create a startup with like-minded peers"
         },
         {
-            "cn": "提升团队协作、演讲和推销能力",
+            "cn": "全面提升团队协作、演讲和推销能力",
             "en": "Enhance teamwork & speaking skills"
         },
         {
-            "cn": "完成正式的投资人路演",
+            "cn": "完成正式的投资人路演并展示商业计划",
             "en": "Deliver a formal investor pitch"
         }
     ],

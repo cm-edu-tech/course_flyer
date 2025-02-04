@@ -2,8 +2,14 @@
     "course_level": "l1",
     "course_number": "02",
     "course_name": {
-        "cn": "使用 MakeCode 进行 Minecraft 编程：创意与编程技能的融合",
-        "en": "Minecraft Programming with MakeCode: Merging Creativity and Coding Skills"
+        "line_1": {
+            "cn": "使用 MakeCode",
+            "en": "Minecraft Programming"
+        },
+        "line_2": {
+            "cn": "进行 Minecraft 编程",
+            "en": "with MakeCode"
+        }
     },
     "short_description": {
         "cn": "Minecraft编程与MakeCode课程通过Minecraft游戏引导学生进入编程世界，培养逻辑思维和问题解决能力，激发创造力与探索精神，助力科技素养提升。",
@@ -11,26 +17,26 @@
     },
     "course_content": [
         {
-            "cn": "控制你的 Minecraft 世界",
+            "cn": "控制你的 Minecraft 世界并自定义游戏体验",
             "en": "Control your own Minecraft world"
         },
         {
-            "cn": "学习积木编程",
+            "cn": "学习积木编程及其基础应用技巧与实践",
             "en": "Learn block programming"
         }
     ],
     "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
     "course_outcomes": [
         {
-            "cn": "培养计算思维",
+            "cn": "培养计算思维并提升问题解决能力",
             "en": "Develop computational thinking"
         },
         {
-            "cn": "掌握基本编程概念",
+            "cn": "掌握基本编程概念并灵活应用于实际项目",
             "en": "Understand programming concepts"
         },
         {
-            "cn": "设计机器人来解决问题",
+            "cn": "设计智能机器人来解决实际问题并优化性能",
             "en": "Design robots to solve problems"
         }
     ],

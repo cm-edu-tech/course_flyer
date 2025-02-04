@@ -118,7 +118,8 @@
                 document.querySelector(".first_page").classList.add(level);
                 document.querySelector(".second_page").classList.add(level);
                 document.querySelector(".course-number").innerText = content.course_number;
-                document.querySelector(".class-name").innerText = content.course_name[lang];
+                document.querySelector(".line-1").innerText = content.course_name.line_1[lang];
+                document.querySelector(".line-2").innerText = content.course_name.line_2[lang];
                 document.querySelector(".short_description").innerText = content.short_description[lang];
                 
                 document.querySelector(".course_content_photo").src = content.course_content_photo;
@@ -256,7 +257,8 @@
                             <h1 class="course-number"></h1>
                             <img class="logo" src="static/cm logo white.png" />
                         </div>
-                        <h2 class="class-name"></h2>
+                        <h2 class="class-name line-1"></h2>
+                        <h2 class="class-name line-2"></h2>
                     </div>
                 </div>
         
@@ -421,7 +423,7 @@
         .class-name {
             font-size: 60px;
             font-weight: 500;
-            line-height: 85px;
+            line-height: 60px;
             letter-spacing: 2px;
             /* Disable kerning to avoid weridly no space between first and second letter */
             font-feature-settings: "kern" 0;

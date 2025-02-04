@@ -2,8 +2,14 @@
     "course_level": "l3",
     "course_number": "07",
     "course_name": {
-        "cn": "Python 1：编程入门与实践，掌握Python基础语法与编程思维",
-        "en": "Python 1: Introductory Programming and Practice – Mastering Basic Syntax and Programming Logic"
+        "line_1": {
+            "cn": "Python 1：入门编程",
+            "en": "Python 1: Introductory"
+        },
+        "line_2": {
+            "cn": "进行 Minecraft 编程",
+            "en": "Programming"
+        }
     },
     "short_description": {
         "cn": "通过多个有趣的游戏和项目学习基础且简单的Python编程概念，培养逻辑思维和问题解决能力，激发编程兴趣，助力未来科技创新与探索。",
@@ -11,26 +17,26 @@
     },
     "course_content": [
         {
-            "cn": "掌握 Python 语法和数据类型",
+            "cn": "掌握 Python 语法和常用数据类型应用",
             "en": "Master Python syntax and data types"
         },
         {
-            "cn": "学习循环、条件语句和函数",
+            "cn": "学习循环、条件语句和函数的使用方法与实践",
             "en": "Learn loops, conditionals, and functions"
         }
     ],
     "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
     "course_outcomes": [
         {
-            "cn": "能够编写简单的 Python 程序",
+            "cn": "能够编写简单的 Python 程序并进行调试",
             "en": "Be able to write simple Python programs"
         },
         {
-            "cn": "掌握专业编程语言的基础知识",
+            "cn": "掌握专业编程语言的基础知识与应用",
             "en": "Master the basics of a professional language"
         },
         {
-            "cn": "完成 Python 终极项目",
+            "cn": "完成 Python 终极项目并展示成果",
             "en": "Complete a final Python project"
         }
     ],
