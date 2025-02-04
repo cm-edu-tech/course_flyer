@@ -2,8 +2,8 @@
     "course_level": "l4",
     "course_number": "09",
     "course_name": {
-        "cn": "生成式 AI 1：提示工程",
-        "en": "Generative AI 1: Prompt Engineering"
+        "cn": "生成式 AI 1：提示工程 - 解锁人工智能创造力的关键技能",
+        "en": "Generative AI 1: Prompt Engineering – Unlocking the Key Skills for AI Creativity"
     },
     "short_description": {
         "cn": "学习生成式人工智能提示工程，提升与AI的交互效果，增强生产力和编程辅助能力，培养创新思维和技术应用能力，助力未来智能科技发展。",
@@ -22,7 +22,7 @@
     "course_content_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
     "course_outcomes": [
         {
-            "cn": "成为生成式 AI 高级用户",
+            "cn": "成为擅长使用生成式 AI 的强大用户",
             "en": "Become a power user of generative AI"
         },
         {
@@ -36,7 +36,7 @@
     ],
     "course_outcomes_photo": "https://assets.clevelandclinic.org/transform/cd71f4bd-81d4-45d8-a450-74df78e4477a/Apples-184940975-770x533-1_jpg",
     "course_outcome_cases": {
-        "cn": "在生成式 AI 课程中，Charlie 运用人工智能技术开发了一款 AI 升学顾问。作为高中生，他巧妙利用 AI 取代传统高价顾问，打造更智能、高效的个性化咨询助手。该应用提供精准大学申请建议，具备实时交互和个性化推荐功能，已成功上线 Apple Store 和 Google Play 并开始盈利，展现了 Charlie 在 AI 技术与创新应用方面的非凡能力。",
+        "cn": "在生成式 AI 课程中，Charlie 运用人工智能技术开发了一款 AI 升学顾问应用程序。作为高中生，他巧妙利用 AI 取代传统高价顾问，打造更智能、高效的个性化咨询助手。该应用提供精准大学申请建议，具备实时交互和个性化推荐功能，已成功上线 Apple Store 和 Google Play 并开始盈利，展现了 Charlie 在 AI 技术与创新应用方面的非凡能力。",
         "en": "In the Generative AI course, Charlie developed an AI-powered college counselor app, offering personalized guidance and real-time interaction as an alternative to expensive consultants. Successfully launched on Apple Store and Google Play, the app generates revenue, showcasing Charlie’s innovative skills."
     },
     "modules": [
