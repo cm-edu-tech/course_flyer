@@ -12,7 +12,7 @@
         }
     },
     "short_description": {
-        "cn": "通过 Roblox Studio 学习3D设计和编程，打造梦想中的游戏，培养创造力与逻辑思维，提升编程技能和问题解决能力，助力未来科技创新与探索。",
+        "cn": "通过 Roblox Studio 学习 3D 设计和编程，打造梦想中的游戏，培养创造力与逻辑思维，提升编程技能和问题解决能力，助力未来科技创新与探索。",
         "en": "Learn 3D design and programming with Roblox Studio and create games of your dreams!"
     },
     "course_content": [
@@ -42,7 +42,7 @@
     ],
     "course_outcomes_photo": "./static/course_images/roblox_1/r2.jpg",
     "course_outcome_cases": {
-        "cn": "在Roblox编程课程中，Bruce利用所学的开发技能，在疫情期间打造了一座虚拟动物园，让孩子们足不出户就能探索各种动物的世界。凭借其生动的场景和互动体验，这款游戏吸引了数百万次访问和下载，深受玩家喜爱。更令人惊叹的是，Bruce通过这款游戏 创造了超过6,000 美元的收入，展现了他卓越的编程能力和商业思维。",
+        "cn": "在 Roblox 编程课程中，Bruce 利用所学的开发技能，在疫情期间打造了一座虚拟动物园，让孩子们足不出户就能探索各种动物的世界。凭借其生动的场景和互动体验，这款游戏吸引了数百万次访问和下载，深受玩家喜爱。更令人惊叹的是，Bruce 通过这款游戏 创造了超过6,000 美元的收入，展现了他卓越的编程能力和商业思维。",
         "en": "In the Roblox Programming course, Bruce created a virtual zoo during the pandemic, letting children explore animals from home. The game attracted millions of visits, earning over $6,000 in revenue and showcasing his programming skills and business acumen."
     },
     "modules": [
@@ -86,7 +86,7 @@
         [
             {
                 "id": "2-1",
-                "cn": "合并/分离/取反",
+                "cn": "合并/分离/取反 工具",
                 "en": "Union, Separate, and Negate"
             },
             {
