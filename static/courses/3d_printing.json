@@ -3,7 +3,7 @@
     "course_number": "13",
     "course_name": {
         "line_1": {
-            "cn": "3D 打印创新者",
+            "cn": "3D 打印创新者：从概念到产品实现",
             "en": "3D Printing Creators:"
         },
         "line_2": {
@@ -17,7 +17,7 @@
     },
     "course_content": [
         {
-            "cn": "掌握 TinkerCAD 进行 3D 设计与建模基础知识",
+            "cn": "学习使用 TinkerCAD 进行 3D 设计与建模基础知识",
             "en": "Learn 3D design skills with TinkerCAD tools"
         },
         {
