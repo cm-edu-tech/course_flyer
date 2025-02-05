@@ -3,7 +3,7 @@
     "course_number": "09",
     "course_name": {
         "line_1": {
-            "cn": "生成式 AI 基础：",
+            "cn": "生成式 AI 人工智能基础：",
             "en": "Generative AI 1:"
         },
         "line_2": {
@@ -36,7 +36,7 @@
             "en": "Boost your productivity"
         },
         {
-            "cn": "使用 LLM 进行编程学习、调试和优化",
+            "cn": "使用大语言模型进行编程学习、调试和优化",
             "en": "Use LLMs for programming learning and debugging"
         }
     ],
