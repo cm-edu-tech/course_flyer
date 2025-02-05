@@ -54,7 +54,7 @@
     <script>
         async function loadCourseIds() {
             try {
-                const response = await fetch('/static/course_master.json');
+                const response = await fetch('static/course_master.json');
                 const courseIds = await response.json();
                 displayCourses(courseIds);
             } catch (error) {
