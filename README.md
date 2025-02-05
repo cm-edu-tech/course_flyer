@@ -2,6 +2,12 @@
 
 This repository serves as a simple web app that allows Coding Mind personnel to generate flyers for courses just by entering a simple URL into their web browser and modifying a JSON.
 
+## Quick Listing Test Page
+
+
+https://cm-edu-tech.github.io/course_flyer/listing.html
+
+
 ## Grabbing a Course Flyer
 
 Before starting, check if the JSON information for that course exists in the repository under `static/courses`. If it doesn't, refer to **Adding a Course Flyer**.
