@@ -67,7 +67,10 @@
                 "cn": "Irvine校区",
                 "en": "Irvine"
             },
-            "address": "920 Roosevelt #200 Irvine, CA",
+            "address": {
+                "line_1": "920 Roosevelt #200",
+                "line_2": "Irvine, CA"
+            },
             "phone_number": "(949) 236-7896",
             "website": "www.codingmind.com",
             "qr": "qr_code.png"
@@ -77,7 +80,10 @@
                 "cn": "Diamond Bar校区",
                 "en": "Diamond Bar"
             },
-            "address": "21308 Pathfinder Rd, Unit 206, Diamond Bar, CA 91765",
+            "address": {
+                "line_1": "21308 Pathfinder Rd, Unit 206",
+                "line_2": "Diamond Bar, CA 91765"
+            },
             "phone_number": "(562) 846-2887",
             "website": "www.codingmind.com",
             "qr": "qr_db.png"
@@ -87,7 +93,10 @@
                 "cn": "Seattle校区",
                 "en": "Seattle"
             },
-            "address": "4006 148th Ave NE, Redmond, WA 98052",
+            "address": {
+                "line_1": "4006 148th Ave NE",
+                "line_2": "Redmond, WA 98052"
+            },
             "phone_number": "(949) 236-7896",
             "website": "www.codingmind.com",
             "qr": "qr_seattle.png"
@@ -97,7 +106,10 @@
                 "cn": "Arcadia校区",
                 "en": "Arcadia"
             },
-            "address": "1010 S Baldwin Ave #202, Arcadia, CA 91007",
+            "address": {
+                "line_1": "1010 S Baldwin Ave #202",
+                "line_2": "Arcadia, CA 91007"
+            },
             "phone_number": "(949) 236-7896",
             "website": "www.codingmind.com",
             "qr": "qr_arcadia.png"

@@ -30,6 +30,9 @@
                     else if (el.classList.contains("syllabus-header")) {
                         el.style.transform = `translateY(-${lineHeight * 0.35}px)`;
                     }
+                    else if (el.classList.contains("campus_address_line_1") || el.classList.contains("campus_address_line_2")) {
+                        el.style.transform = `translateY(-${lineHeight * 0.0}px)`;
+                    }
                     else {
                         el.style.transform = `translateY(-${lineHeight * 0.5}px)`;
                     }
@@ -222,7 +225,8 @@
                 document.querySelector(".cancel_base").innerText = content.flexible[lang];
                 
                 document.querySelector(".campus_name").innerText = content.campuses[campus].name[lang];
-                document.querySelector(".campus_address").innerText = content.campuses[campus].address;
+                document.querySelector(".campus_address_line_1").innerText = content.campuses[campus].address.line_1;
+                document.querySelector(".campus_address_line_2").innerText = content.campuses[campus].address.line_2;
                 document.querySelector(".campus_phone_number").innerText = content.campuses[campus].phone_number;
                 document.querySelector(".campus_website").innerText = content.campuses[campus].website;
                 document.querySelector(".qr-code").src = `static/${content.campuses[campus].qr}`;
@@ -326,7 +330,10 @@
                     <div class="w-full campus-info">
                         <h3 class="campus_name"></h3>
                         <ul>
-                            <li class="campus_address"></li>
+                            <li class="campus-address">
+                                <p class="campus_address_line_1"></p>
+                                <p class="campus_address_line_2"></p>
+                            </li>
                             <li class="campus_phone_number"></li>
                             <li class="campus_website"></li>
                         </ul>
@@ -484,6 +491,9 @@
             /* Disable kerning to avoid weridly no space between first and second letter */
             font-feature-settings: "kern" 0;
             font-family: "DouYu", sans-serif;
+        }
+        .campus-address p {
+            font-family: "Outfit", serif;
         }
         .campus-info {
             width: 40%;
