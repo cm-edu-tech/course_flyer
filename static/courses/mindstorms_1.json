@@ -12,7 +12,7 @@
         }
     },
     "short_description": {
-        "cn": "LEGO Mindstorms机器人课程全面培养学生的STEM能力和创新思维，提升编程、工程设计及问题解决技巧，激发科技探索兴趣，助力未来成长与发展。",
+        "cn": "LEGO Mindstorms 机器人编程课程全面培养学生的 STEM 能力和创新思维，提升编程、工程设计及问题解决技巧，激发科技探索兴趣，助力未来成长与发展。",
         "en": "The LEGO Mindstorms Robotics 1 course fully develops students' STEM abilities and innovative thinking."
     },
     "course_content": [
@@ -86,7 +86,7 @@
             },
             {
                 "id": "2-4",
-                "cn": "遥控操作Spik3r",
+                "cn": "遥控操作Spik3r机器人",
                 "en": "Spik3r with a Remote"
             },
             {
