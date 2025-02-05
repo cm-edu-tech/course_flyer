@@ -12,7 +12,7 @@
         }
     },
     "short_description": {
-        "cn": "学习Unity基础知识，掌握核心游戏开发概念，提升编程能力和逻辑思维，培养创造力与问题解决技巧，助力未来科技创新与游戏设计探索。",
+        "cn": "学习 Unity 基础知识，掌握核心游戏开发概念，提升编程能力和逻辑思维，培养创造力与问题解决技巧，助力未来科技创新与游戏设计探索。",
         "en": "Learn Unity fundamentals and master core game development concepts."
     },
     "course_content": [
@@ -42,7 +42,7 @@
     ],
     "course_outcomes_photo": "./static/course_images/unity_1/unity1.jpg",
     "course_outcome_cases": {
-        "cn": "在Unity课程中，Charles利用游戏引擎开发了一款 驾驶学校学习游戏。该游戏为学习者提供交通规则课程，并通过模拟驾驶环境，让学生在虚拟世界中实践驾驶技巧，从而更直观、高效地掌握交通法规。凭借这一创新项目，Charles 不仅在多个编程竞赛中获奖，还成功 被康奈尔大学录取，展现了他卓越的游戏开发能力和创新思维。",
+        "cn": "在 Unity 课程中，Charles 利用游戏引擎开发了一款 驾驶学校学习游戏。该游戏为学习者提供交通规则课程，并通过模拟驾驶环境，让学生在虚拟世界中实践驾驶技巧，从而更直观、高效地掌握交通法规。凭借这一创新项目，Charles 不仅在多个编程竞赛中获奖，还成功 被康奈尔大学录取，展现了他卓越的游戏开发能力和创新思维。",
         "en": "In the Unity course, Charles developed a driving school game that teaches traffic rules and lets students practice in a simulated environment. This project won him multiple programming competitions and admission to Cornell University, highlighting his game development skills and creativity."
     },
     "modules": [
