@@ -3,7 +3,7 @@
     "course_number": "03",
     "course_name": {
         "line_1": {
-            "cn": "使用 Thunkable",
+            "cn": "使用 Thunkable 开发平台",
             "en": "App Development"
         },
         "line_2": {
@@ -12,7 +12,7 @@
         }
     },
     "short_description": {
-        "cn": "应用开发与Thunkable课程使用Thunkable开发平台，帮助学生快速设计移动应用功能，培养逻辑思维和创新能力，提升编程技能与问题解决能力，助力未来科技发展。",
+        "cn": "应用开发与 Thunkable 课程使用 Thunkable 开发平台，帮助学生快速设计移动应用功能，培养逻辑思维和创新能力，提升编程技能与问题解决能力，助力未来科技发展。",
         "en": "The App Development with Thunkable course uses the Thunkable development platform to allow students to quickly design features of a mobile application."
     },
     "course_content": [
@@ -21,7 +21,7 @@
             "en": "Create your own mobile apps"
         },
         {
-            "cn": "学习积木编程及其基本应用技巧",
+            "cn": "学习代码块编程及其基本应用技巧",
             "en": "Learn block-based programming"
         }
     ],
@@ -126,7 +126,7 @@
             },
             {
                 "id": "2-6",
-                "cn": "最终项目",
+                "cn": "期末项目",
                 "en": "Final Project"
             }
         ]
