@@ -12,7 +12,7 @@
         }
     },
     "short_description": {
-        "cn": "通过多个有趣的游戏和项目学习基础且简单的Python编程概念，培养逻辑思维和问题解决能力，激发编程兴趣，助力未来科技创新与探索。",
+        "cn": "通过多个有趣的游戏和项目学习基础且简单的 Python 编程概念，培养逻辑思维和问题解决能力，激发编程兴趣，助力未来科技创新与探索。",
         "en": "Learn fundamental but simple Python programming concepts through many different games and projects."
     },
     "course_content": [
@@ -36,7 +36,7 @@
             "en": "Master the basics of a professional language"
         },
         {
-            "cn": "完成 Python 终极项目并展示成果",
+            "cn": "完成 Python 基础期末项目并展示成果",
             "en": "Complete a final Python project"
         }
     ],
