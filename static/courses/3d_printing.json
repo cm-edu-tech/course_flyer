@@ -109,8 +109,23 @@
             },
             {
                 "id": "1-13",
-                "cn": "学习 TinkerCAD",
-                "en": "Let’s Learn TinkerCAD!"
+                "cn": "使用尺子工具",
+                "en": "Using the Ruler Tool"
+            },
+            {
+                "id": "1-14",
+                "cn": "镜像对象",
+                "en": "Mirroring Objects"
+            },
+            {
+                "id": "1-15",
+                "cn": "使用辅助线",
+                "en": "Using Workplane"
+            },
+            {
+                "id": "1-16",
+                "cn": "导入外部模型",
+                "en": "Importing Models"
             }
         ],
         [
@@ -143,33 +158,130 @@
                 "id": "2-6",
                 "cn": "制作玩具",
                 "en": "Making Toys"
+            },
+            {
+                "id": "2-7",
+                "cn": "创建钥匙扣",
+                "en": "Designing a Keychain"
+            },
+            {
+                "id": "2-8",
+                "cn": "自定义手机支架",
+                "en": "Custom Phone Stand"
+            },
+            {
+                "id": "2-9",
+                "cn": "制作齿轮",
+                "en": "Creating Gears"
+            },
+            {
+                "id": "2-10",
+                "cn": "简单机械装置",
+                "en": "Simple Mechanical Designs"
             }
         ],
         [
             {
                 "id": "3-1",
+                "cn": "3D打印的基础",
+                "en": "Introduction to 3D Printing"
+            },
+            {
+                "id": "3-2",
+                "cn": "切片软件介绍",
+                "en": "Understanding Slicing Software"
+            },
+            {
+                "id": "3-3",
+                "cn": "导出STL文件",
+                "en": "Exporting STL Files"
+            },
+            {
+                "id": "3-4",
+                "cn": "支持结构与填充",
+                "en": "Supports and Infill"
+            },
+            {
+                "id": "3-5",
+                "cn": "打印材料介绍",
+                "en": "Printing Materials"
+            },
+            {
+                "id": "3-6",
+                "cn": "如何设置3D打印机",
+                "en": "Setting Up a 3D Printer"
+            },
+            {
+                "id": "3-7",
+                "cn": "避免常见错误",
+                "en": "Avoiding Common Mistakes"
+            },
+            {
+                "id": "3-8",
+                "cn": "优化模型打印",
+                "en": "Optimizing Model for Printing"
+            },
+            {
+                "id": "3-9",
+                "cn": "后处理与打磨",
+                "en": "Post-Processing and Finishing"
+            },
+            {
+                "id": "3-10",
+                "cn": "3D打印项目展示",
+                "en": "Showcasing 3D Printed Projects"
+            }
+        ],
+        [
+            {
+                "id": "4-1",
                 "cn": "什么是创业？",
                 "en": "What is Entrepreneurship?"
             },
             {
-                "id": "3-2",
+                "id": "4-2",
                 "cn": "构思商业点子",
                 "en": "Formulating Business Ideas"
             },
             {
-                "id": "3-3",
+                "id": "4-3",
                 "cn": "建模产品原型",
                 "en": "Modeling Prototype"
             },
             {
-                "id": "3-4",
+                "id": "4-4",
                 "cn": "制作商业演示文稿",
                 "en": "Pitch Deck"
             },
             {
-                "id": "3-5",
+                "id": "4-5",
                 "cn": "最终产品展示",
                 "en": "Final Presentation"
+            },
+            {
+                "id": "4-6",
+                "cn": "市场调查",
+                "en": "Market Research"
+            },
+            {
+                "id": "4-7",
+                "cn": "品牌设计",
+                "en": "Branding and Logo Design"
+            },
+            {
+                "id": "4-8",
+                "cn": "产品定价策略",
+                "en": "Pricing Strategy"
+            },
+            {
+                "id": "4-9",
+                "cn": "如何推广你的产品",
+                "en": "How to Market Your Product"
+            },
+            {
+                "id": "4-10",
+                "cn": "制作销售海报",
+                "en": "Creating a Sales Poster"
             }
         ]
     ]
