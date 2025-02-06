@@ -49,40 +49,60 @@
         [
             {
                 "id": "1-1",
-                "cn": "设置、Forever 与 On Start永久循环、LED 灯和 Micro Chat 无线电",
-                "en": "Setup, Forever vs On Start, LED Lights, and Micro Chat Radio"
+                "cn": "介绍 micro:bit 与基本设置",
+                "en": "Introduction to micro:bit and Basic Setup"
             },
             {
                 "id": "1-2",
+                "cn": "Forever 与 On Start永久循环、LED 显示",
+                "en": "Forever vs On Start, LED Display"
+            },
+            {
+                "id": "1-3",
                 "cn": "按钮、输入与字符串",
                 "en": "Buttons, Input, and Strings"
             },
             {
-                "id": "1-3",
-                "cn": "If 语句与变量",
-                "en": "If Statements and Variables"
+                "id": "1-4",
+                "cn": "If 语句、变量与数学运算",
+                "en": "If Statements, Variables, and Math Operations"
             },
             {
-                "id": "1-4",
+                "id": "1-5",
+                "cn": "使用无线电进行通信",
+                "en": "Using Radio for Communication"
+            },
+            {
+                "id": "1-6",
                 "cn": "石头剪刀布与计数器项目",
                 "en": "Rock Paper Scissors and Counter Project"
             },
             {
-                "id": "1-5",
+                "id": "1-7",
                 "cn": "水果键盘网络项目",
                 "en": "Fruit Keyboard Networks Project"
             },
             {
-                "id": "1-6",
+                "id": "1-8",
                 "cn": "情绪无线电、摩斯电码与布尔值",
-                "en": "Mood Radio Project, Morse Code, and Booleans"
+                "en": "Mood Radio, Morse Code, and Booleans"
+            },
+            {
+                "id": "1-9",
+                "cn": "基础传感器数据：温度与光线",
+                "en": "Basic Sensor Data: Temperature and Light"
+            },
+            {
+                "id": "1-10",
+                "cn": "期中项目：用 micro:bit 制作简易传感器",
+                "en": "Midterm Project: Creating a Simple Sensor with micro:bit"
             }
         ],
         [
             {
                 "id": "2-1",
-                "cn": "图表与数组",
-                "en": "Graphs and Arrays"
+                "cn": "图表、数组与数据存储",
+                "en": "Graphs, Arrays, and Data Storage"
             },
             {
                 "id": "2-2",
@@ -91,23 +111,95 @@
             },
             {
                 "id": "2-3",
+                "cn": "自定义函数与参数",
+                "en": "Custom Functions and Parameters"
+            },
+            {
+                "id": "2-4",
+                "cn": "加速度计与运动检测",
+                "en": "Accelerometer and Motion Detection"
+            },
+            {
+                "id": "2-5",
+                "cn": "磁场传感器与指南针",
+                "en": "Magnetometer and Compass"
+            },
+            {
+                "id": "2-6",
                 "cn": "速度按钮挑战游戏",
                 "en": "Speed Button Challenge Game"
             },
             {
-                "id": "2-4",
+                "id": "2-7",
+                "cn": "随机数与游戏逻辑",
+                "en": "Random Numbers and Game Logic"
+            },
+            {
+                "id": "2-8",
                 "cn": "吃豆人游戏 Part 1",
                 "en": "Pac-Man Game Part 1"
             },
             {
-                "id": "2-5",
+                "id": "2-9",
                 "cn": "吃豆人游戏 Part 2",
                 "en": "Pac-Man Game Part 2"
             },
             {
-                "id": "2-6",
-                "cn": "期末项目",
-                "en": "Final Project"
+                "id": "2-10",
+                "cn": "期末项目：创建一个互动游戏",
+                "en": "Final Project: Creating an Interactive Game"
+            }
+        ],
+        [
+            {
+                "id": "3-1",
+                "cn": "使用多个 micro:bit 进行无线通信",
+                "en": "Using Multiple micro:bits for Wireless Communication"
+            },
+            {
+                "id": "3-2",
+                "cn": "数据记录与远程监测",
+                "en": "Data Logging and Remote Monitoring"
+            },
+            {
+                "id": "3-3",
+                "cn": "使用 micro:bit 控制马达与伺服",
+                "en": "Controlling Motors and Servos with micro:bit"
+            },
+            {
+                "id": "3-4",
+                "cn": "使用 micro:bit 控制 LED 灯带",
+                "en": "Controlling LED Strips with micro:bit"
+            },
+            {
+                "id": "3-5",
+                "cn": "声音感应与音乐项目",
+                "en": "Sound Sensing and Music Projects"
+            },
+            {
+                "id": "3-6",
+                "cn": "创建智能家居设备",
+                "en": "Creating Smart Home Devices"
+            },
+            {
+                "id": "3-7",
+                "cn": "远程控制与 IoT 连接",
+                "en": "Remote Control and IoT Integration"
+            },
+            {
+                "id": "3-8",
+                "cn": "机器人项目 Part 1: 机械基础",
+                "en": "Robot Project Part 1: Mechanical Basics"
+            },
+            {
+                "id": "3-9",
+                "cn": "机器人项目 Part 2: 代码控制",
+                "en": "Robot Project Part 2: Code Control"
+            },
+            {
+                "id": "3-10",
+                "cn": "期末项目：用 micro:bit 设计一个完整的智能设备",
+                "en": "Final Project: Designing a Complete Smart Device with micro:bit"
             }
         ]
     ]
