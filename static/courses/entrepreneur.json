@@ -157,26 +157,63 @@
         [
             {
                 "id": "5-1",
+                "cn": "Thunkable 介绍与安装",
+                "en": "Introduction to Thunkable and Setup"
+            },
+            {
+                "id": "5-2",
+                "cn": "设计用户界面",
+                "en": "Designing the User Interface"
+            },
+            {
+                "id": "5-3",
+                "cn": "添加交互与按钮",
+                "en": "Adding Interactivity and Buttons"
+            },
+            {
+                "id": "5-4",
+                "cn": "使用数据库存储数据",
+                "en": "Using Databases to Store Data"
+            },
+            {
+                "id": "5-5",
+                "cn": "测试与调试应用",
+                "en": "Testing and Debugging the App"
+            },
+            {
+                "id": "5-6",
+                "cn": "优化应用并收集反馈",
+                "en": "Optimizing the App and Gathering Feedback"
+            },
+            {
+                "id": "5-7",
+                "cn": "发布与展示应用原型",
+                "en": "Publishing and Showcasing the App Prototype"
+            }
+        ],
+        [
+            {
+                "id": "6-1",
                 "cn": "视频编辑与敲定视频最终版本",
                 "en": "Editing and Finalizing Pitch Videos"
             },
             {
-                "id": "5-2",
+                "id": "6-2",
                 "cn": "团队展示最终版本创业项目",
                 "en": "Presenting Final Startup Projects"
             },
             {
-                "id": "5-3",
+                "id": "6-3",
                 "cn": "小组讨论与反馈",
                 "en": "Group Discussion and Feedback"
             },
             {
-                "id": "5-4",
+                "id": "6-4",
                 "cn": "创业精神与下一步行动",
                 "en": "Entrepreneurial Mindset and Next Steps"
             },
             {
-                "id": "5-5",
+                "id": "6-5",
                 "cn": "课程回顾与结业典礼",
                 "en": "Course Review and Closing Ceremony"
             }
