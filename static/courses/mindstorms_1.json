@@ -59,13 +59,43 @@
             },
             {
                 "id": "1-3",
-                "cn": "小游戏：自动驾驶汽车",
-                "en": "Mini-game: Self Driving Car"
+                "cn": "了解马达与传感器",
+                "en": "Understanding Motors and Sensors"
             },
             {
                 "id": "1-4",
+                "cn": "学习 LEGO 编程界面",
+                "en": "Learning the LEGO Programming Interface"
+            },
+            {
+                "id": "1-5",
+                "cn": "小游戏：自动驾驶汽车",
+                "en": "Mini-game: Self-Driving Car"
+            },
+            {
+                "id": "1-6",
+                "cn": "调整速度与转向",
+                "en": "Adjusting Speed and Turning"
+            },
+            {
+                "id": "1-7",
                 "cn": "为机器人添加刀片",
                 "en": "Adding a Blade to Your Robot"
+            },
+            {
+                "id": "1-8",
+                "cn": "编写避障程序",
+                "en": "Programming Obstacle Avoidance"
+            },
+            {
+                "id": "1-9",
+                "cn": "利用超声波传感器进行导航",
+                "en": "Using the Ultrasonic Sensor for Navigation"
+            },
+            {
+                "id": "1-10",
+                "cn": "期中项目：机器人迷宫挑战",
+                "en": "Midterm Project: Robot Maze Challenge"
             }
         ],
         [
@@ -86,18 +116,38 @@
             },
             {
                 "id": "2-4",
-                "cn": "遥控操作Spik3r机器人",
-                "en": "Spik3r with a Remote"
+                "cn": "学习循环与条件语句",
+                "en": "Learning Loops and Conditional Statements"
             },
             {
                 "id": "2-5",
+                "cn": "遥控操作 Spik3r 机器人",
+                "en": "Spik3r with a Remote"
+            },
+            {
+                "id": "2-6",
                 "cn": "利用发射信号的小型电子设备",
                 "en": "Using a Beacon"
             },
             {
-                "id": "2-6",
+                "id": "2-7",
+                "cn": "自适应传感器编程",
+                "en": "Adaptive Sensor Programming"
+            },
+            {
+                "id": "2-8",
+                "cn": "机器人行为编程",
+                "en": "Programming Robot Behaviors"
+            },
+            {
+                "id": "2-9",
                 "cn": "小游戏：捕捉虫子",
                 "en": "Mini-game: Hunt the Bug"
+            },
+            {
+                "id": "2-10",
+                "cn": "期末项目：机器人战斗竞赛",
+                "en": "Final Project: Robot Battle Challenge"
             }
         ],
         [
@@ -123,8 +173,33 @@
             },
             {
                 "id": "3-5",
+                "cn": "学习机器人手臂控制",
+                "en": "Learning Robot Arm Control"
+            },
+            {
+                "id": "3-6",
+                "cn": "与其他机器人进行交互",
+                "en": "Interacting with Other Robots"
+            },
+            {
+                "id": "3-7",
+                "cn": "远程控制与自动驾驶",
+                "en": "Remote Control and Autonomous Driving"
+            },
+            {
+                "id": "3-8",
                 "cn": "小游戏：捡起木棍",
                 "en": "Mini-game: Pick up Sticks"
+            },
+            {
+                "id": "3-9",
+                "cn": "创建智能任务机器人",
+                "en": "Building a Smart Task Robot"
+            },
+            {
+                "id": "3-10",
+                "cn": "最终项目：机器人运输挑战",
+                "en": "Final Project: Robot Transport Challenge"
             }
         ]
     ]
