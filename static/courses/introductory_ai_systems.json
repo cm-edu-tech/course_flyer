@@ -59,8 +59,18 @@
             },
             {
                 "id": "0-3",
+                "cn": "AI 在日常生活中的应用",
+                "en": "AI in Everyday Life"
+            },
+            {
+                "id": "0-4",
                 "cn": "使用 Raise AI Scratch 版本",
                 "en": "Using Raise AI Scratch"
+            },
+            {
+                "id": "0-5",
+                "cn": "数据与机器学习",
+                "en": "Data and Machine Learning"
             }
         ],
         [
@@ -71,16 +81,26 @@
             },
             {
                 "id": "1-2",
+                "cn": "机器学习如何检测人体运动？",
+                "en": "How Does ML Detect Body Movement?"
+            },
+            {
+                "id": "1-3",
+                "cn": "训练自己的身体识别模型",
+                "en": "Training Your Own Body Recognition Model"
+            },
+            {
+                "id": "1-4",
                 "cn": "项目 1：鹦鹉宠物",
                 "en": "Project 1: Parrot Pet"
             },
             {
-                "id": "1-3",
+                "id": "1-5",
                 "cn": "项目 2：换装游戏",
                 "en": "Project 2: Dress Up"
             },
             {
-                "id": "1-4",
+                "id": "1-6",
                 "cn": "项目 3：无尽跑酷",
                 "en": "Project 3: Endless Runner"
             }
@@ -93,16 +113,26 @@
             },
             {
                 "id": "2-2",
+                "cn": "AI 如何识别人脸？",
+                "en": "How Does AI Recognize Faces?"
+            },
+            {
+                "id": "2-3",
+                "cn": "训练自己的面部识别模型",
+                "en": "Training Your Own Face Recognition Model"
+            },
+            {
+                "id": "2-4",
                 "cn": "项目 1：木偶戏",
                 "en": "Project 1: Puppetry"
             },
             {
-                "id": "2-3",
+                "id": "2-5",
                 "cn": "项目 2：奇怪机器人",
                 "en": "Project 2: Weird Robot"
             },
             {
-                "id": "2-4",
+                "id": "2-6",
                 "cn": "项目 3：黑客大师",
                 "en": "Project 3: Master Hacker"
             }
@@ -115,16 +145,26 @@
             },
             {
                 "id": "3-2",
+                "cn": "机器学习如何识别手势？",
+                "en": "How Does ML Recognize Hand Gestures?"
+            },
+            {
+                "id": "3-3",
+                "cn": "训练自己的手势识别模型",
+                "en": "Training Your Own Hand Recognition Model"
+            },
+            {
+                "id": "3-4",
                 "cn": "项目 1：Flappy Bird",
                 "en": "Project 1: Flappy Bird"
             },
             {
-                "id": "3-3",
+                "id": "3-5",
                 "cn": "项目 2：艺术家",
                 "en": "Project 2: Artist"
             },
             {
-                "id": "3-4",
+                "id": "3-6",
                 "cn": "项目 3：影子拳击",
                 "en": "Project 3: Shadow Boxing"
             }
@@ -142,21 +182,31 @@
             },
             {
                 "id": "4-3",
+                "cn": "AI 如何理解语言？",
+                "en": "How Does AI Understand Language?"
+            },
+            {
+                "id": "4-4",
+                "cn": "训练自己的 NLP 模型",
+                "en": "Training Your Own NLP Model"
+            },
+            {
+                "id": "4-5",
                 "cn": "项目 1：YouTube 模拟器",
                 "en": "Project 1: YouTube Simulator"
             },
             {
-                "id": "4-4",
+                "id": "4-6",
                 "cn": "情感分析",
                 "en": "Sentiment Analysis"
             },
             {
-                "id": "4-5",
+                "id": "4-7",
                 "cn": "项目 2：虚拟宠物",
                 "en": "Project 2: Virtual Pet"
             },
             {
-                "id": "4-6",
+                "id": "4-8",
                 "cn": "项目 3：聊天机器人",
                 "en": "Project 3: Chatbot"
             }
@@ -174,16 +224,26 @@
             },
             {
                 "id": "5-3",
+                "cn": "AI 如何识别物体？",
+                "en": "How Does AI Recognize Objects?"
+            },
+            {
+                "id": "5-4",
+                "cn": "训练自己的图像分类模型",
+                "en": "Training Your Own Image Classification Model"
+            },
+            {
+                "id": "5-5",
                 "cn": "项目 1：石头剪刀布",
                 "en": "Project 1: Rock Paper Scissors"
             },
             {
-                "id": "5-4",
+                "id": "5-6",
                 "cn": "项目 2：墙中洞",
                 "en": "Project 2: Hole in the Wall"
             },
             {
-                "id": "5-5",
+                "id": "5-7",
                 "cn": "项目 3：传送门魔法",
                 "en": "Project 3: Portal Magic"
             }
