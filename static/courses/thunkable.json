@@ -49,85 +49,152 @@
         [
             {
                 "id": "1-1",
+                "cn": "Thunkable 介绍与基础界面",
+                "en": "Introduction to Thunkable and Basic UI"
+            },
+            {
+                "id": "1-2",
+                "cn": "添加按钮和交互功能",
+                "en": "Adding Buttons and User Interaction"
+            },
+            {
+                "id": "1-3",
                 "cn": "音效板",
                 "en": "Soundboard"
             },
             {
-                "id": "1-2",
+                "id": "1-4",
                 "cn": "魔法 8 号球",
                 "en": "Magic 8 Ball"
             },
             {
-                "id": "1-3",
+                "id": "1-5",
                 "cn": "表情包制作器",
                 "en": "Meme Maker"
             },
             {
-                "id": "1-4",
-                "cn": "图像识别器",
-                "en": "Image Recognizer"
+                "id": "1-6",
+                "cn": "文本输入与动态变化",
+                "en": "Text Input and Dynamic Changes"
             },
             {
-                "id": "1-5",
+                "id": "1-7",
                 "cn": "BMI 计算器",
                 "en": "BMI Calculator"
             },
             {
-                "id": "1-6",
+                "id": "1-8",
                 "cn": "文字转语音",
                 "en": "Text-to-Speech"
             },
             {
-                "id": "1-7",
-                "cn": "每秒点击次数",
-                "en": "Clicks Per Second"
-            },
-            {
-                "id": "1-8",
+                "id": "1-9",
                 "cn": "数学计算器",
                 "en": "Math Calculator"
             },
             {
-                "id": "1-9",
-                "cn": "点击饼干游戏",
-                "en": "Cookie Clicker"
-            },
-            {
                 "id": "1-10",
-                "cn": "消息应用",
-                "en": "Messaging App"
+                "cn": "项目：点击饼干游戏",
+                "en": "Project: Cookie Clicker"
             }
         ],
         [
             {
                 "id": "2-1",
+                "cn": "使用摄像头与图像处理",
+                "en": "Using Camera and Image Processing"
+            },
+            {
+                "id": "2-2",
+                "cn": "图像识别器",
+                "en": "Image Recognizer"
+            },
+            {
+                "id": "2-3",
+                "cn": "数据存储与本地数据库",
+                "en": "Data Storage and Local Database"
+            },
+            {
+                "id": "2-4",
+                "cn": "消息应用",
+                "en": "Messaging App"
+            },
+            {
+                "id": "2-5",
+                "cn": "Firebase 实时数据库",
+                "en": "Firebase Real-Time Database"
+            },
+            {
+                "id": "2-6",
                 "cn": "秒表",
                 "en": "Stopwatch"
             },
             {
-                "id": "2-2",
-                "cn": "Minecraft 药水",
-                "en": "Minecraft Potions"
-            },
-            {
-                "id": "2-3",
-                "cn": "测验应用",
-                "en": "Quiz App"
-            },
-            {
-                "id": "2-4",
+                "id": "2-7",
                 "cn": "计时器应用",
                 "en": "Timer App"
             },
             {
-                "id": "2-5",
-                "cn": "Minecraft 附魔",
-                "en": "Minecraft Enchantments"
+                "id": "2-8",
+                "cn": "测验应用",
+                "en": "Quiz App"
             },
             {
-                "id": "2-6",
-                "cn": "期末项目",
-                "en": "Final Project"
+                "id": "2-9",
+                "cn": "项目：Minecraft 药水与附魔",
+                "en": "Project: Minecraft Potions and Enchantments"
+            }
+        ],
+        [
+            {
+                "id": "3-1",
+                "cn": "高级 UI 组件：滑动、列表与动画",
+                "en": "Advanced UI Components: Sliders, Lists, and Animations"
+            },
+            {
+                "id": "3-2",
+                "cn": "API 集成与 Web 请求",
+                "en": "API Integration and Web Requests"
+            },
+            {
+                "id": "3-3",
+                "cn": "天气应用：获取实时天气数据",
+                "en": "Weather App: Fetching Live Weather Data"
+            },
+            {
+                "id": "3-4",
+                "cn": "地图与 GPS 位置追踪",
+                "en": "Maps and GPS Location Tracking"
+            },
+            {
+                "id": "3-5",
+                "cn": "项目：健康追踪器",
+                "en": "Project: Health Tracker"
+            },
+            {
+                "id": "3-6",
+                "cn": "人工智能与机器学习 API",
+                "en": "AI and Machine Learning API"
+            },
+            {
+                "id": "3-7",
+                "cn": "创建 AI 聊天机器人",
+                "en": "Creating an AI Chatbot"
+            },
+            {
+                "id": "3-8",
+                "cn": "项目：智能任务管理器",
+                "en": "Project: Smart Task Manager"
+            },
+            {
+                "id": "3-9",
+                "cn": "项目：多页面导航与用户身份验证",
+                "en": "Project: Multi-Page Navigation and User Authentication"
+            },
+            {
+                "id": "3-10",
+                "cn": "最终项目：完整的移动应用",
+                "en": "Final Project: Full Mobile Application"
             }
         ]
     ]
