@@ -49,46 +49,51 @@
         [
             {
                 "id": "1-1",
+                "cn": "Minecraft MakeCode 介绍",
+                "en": "Introduction to Minecraft MakeCode"
+            },
+            {
+                "id": "1-2",
                 "cn": "移动事件",
                 "en": "Movement Events"
             },
             {
-                "id": "1-2",
+                "id": "1-3",
                 "cn": "生物事件",
                 "en": "Mob Events"
             },
             {
-                "id": "1-3",
+                "id": "1-4",
                 "cn": "聊天与游戏设置",
                 "en": "Chat and Game Settings"
             },
             {
-                "id": "1-4",
-                "cn": "物品",
-                "en": "Items"
-            },
-            {
                 "id": "1-5",
-                "cn": "项目：僵尸大战",
-                "en": "Project: Zombie Battle"
+                "cn": "物品与物品栏管理",
+                "en": "Items and Inventory Management"
             },
             {
                 "id": "1-6",
-                "cn": "项目：钓鱼游戏",
-                "en": "Project: Go Fish"
-            },
-            {
-                "id": "1-7",
-                "cn": "高空跳伞",
-                "en": "Sky Diving"
-            },
-            {
-                "id": "1-8",
                 "cn": "放置与破坏",
                 "en": "Place and Break"
             },
             {
+                "id": "1-7",
+                "cn": "项目：僵尸大战",
+                "en": "Project: Zombie Battle"
+            },
+            {
+                "id": "1-8",
+                "cn": "项目：钓鱼游戏",
+                "en": "Project: Go Fish"
+            },
+            {
                 "id": "1-9",
+                "cn": "高空跳伞",
+                "en": "Sky Diving"
+            },
+            {
+                "id": "1-10",
                 "cn": "项目：惊喜派对",
                 "en": "Project: Surprise Party"
             }
@@ -106,33 +111,95 @@
             },
             {
                 "id": "2-3",
+                "cn": "变量与数据存储",
+                "en": "Variables and Data Storage"
+            },
+            {
+                "id": "2-4",
                 "cn": "方块检测",
                 "en": "Test for Block"
             },
             {
-                "id": "2-4",
+                "id": "2-5",
                 "cn": "位置入门",
                 "en": "Intro to Positions"
             },
             {
-                "id": "2-5",
+                "id": "2-6",
                 "cn": "世界坐标",
                 "en": "World Coordinates"
             },
             {
-                "id": "2-6",
+                "id": "2-7",
                 "cn": "神秘实验室",
                 "en": "Lab with Secrets"
             },
             {
-                "id": "2-7",
+                "id": "2-8",
                 "cn": "按钮谜题",
                 "en": "Button Puzzle"
             },
             {
-                "id": "2-8",
+                "id": "2-9",
+                "cn": "事件触发与自动化",
+                "en": "Event Triggers and Automation"
+            },
+            {
+                "id": "2-10",
                 "cn": "期末项目",
                 "en": "Final Project"
+            }
+        ],
+        [
+            {
+                "id": "3-1",
+                "cn": "函数与模块化代码",
+                "en": "Functions and Modular Code"
+            },
+            {
+                "id": "3-2",
+                "cn": "循环与重复执行",
+                "en": "Loops and Iteration"
+            },
+            {
+                "id": "3-3",
+                "cn": "时间与延迟",
+                "en": "Time and Delays"
+            },
+            {
+                "id": "3-4",
+                "cn": "创建 TNT 自动化",
+                "en": "Automating TNT"
+            },
+            {
+                "id": "3-5",
+                "cn": "环境交互与天气控制",
+                "en": "Environmental Interaction and Weather Control"
+            },
+            {
+                "id": "3-6",
+                "cn": "创建一个建筑自动化系统",
+                "en": "Creating an Automated Building System"
+            },
+            {
+                "id": "3-7",
+                "cn": "使用命令块进行高级控制",
+                "en": "Advanced Control with Command Blocks"
+            },
+            {
+                "id": "3-8",
+                "cn": "项目：建造你的梦幻基地",
+                "en": "Project: Build Your Dream Base"
+            },
+            {
+                "id": "3-9",
+                "cn": "项目：多人游戏挑战",
+                "en": "Project: Multiplayer Game Challenge"
+            },
+            {
+                "id": "3-10",
+                "cn": "最终项目：创建一个完整的 Minecraft 游戏模式",
+                "en": "Final Project: Create a Complete Minecraft Game Mode"
             }
         ]
     ]
